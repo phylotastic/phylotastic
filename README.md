@@ -1,4 +1,6 @@
-# phylotastic - Core functionalities for a production version of Phylotastic
+# phylotastic core 
+
+Core functionalities for a production version of the Phylotastic system. 
 
 ## about 
 
