@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/phylotastic/phylotastic.png?label=ready&title=Ready)](https://waffle.io/phylotastic/phylotastic)
 # phylotastic core 
 
 Core functionalities for a production version of the Phylotastic system. 
