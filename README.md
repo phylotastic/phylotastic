@@ -1,6 +1,3 @@
-[![Stories in Ready][waffle-icon]][waffle]
-[![Join the chat at https://gitter.im/phylotastic/phylotastic][gitter-icon]][gitter]
-
 # phylotastic core
 
 Core functionalities for a production version of the Phylotastic system.
@@ -15,7 +12,7 @@ As of 2015, NSF has funded a project to develop a production version of the syst
 
 ## get involved
 
-This is an open project.  Ask the organizers how to get involved.
+This is an open project.  The main channel for project communication is our [gitter chat room](https://gitter.im/phylotastic/phylotastic).  Click the link to watch or click the button to join [![Join the chat at https://gitter.im/phylotastic/phylotastic][gitter-icon]][gitter].  The project is managed through a top-level [project KanBan on Waffle](https://waffle.io/phylotastic/phylotastic). [![Stories in Ready][waffle-icon]][waffle]
 
 
 ## references
