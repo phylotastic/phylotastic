@@ -1,6 +1,6 @@
-# phylotastic core
+# phylotastic project
 
-Core functionalities for a production version of the Phylotastic system.
+This repo is the administrative home for the Phylotastic project and the Phylotastic github organization. 
 
 ## about
 
@@ -9,6 +9,11 @@ Core functionalities for a production version of the Phylotastic system.
 The main web page at [www.phylotastic.org][phylotastic-web] provides demonstrations (screencasts, live software) and further information.
 
 As of 2015, NSF has funded a project to develop a production version of the system.  This is the main repository for the core functionality.
+
+## code repositories
+
+The active code repositories are in the github phylotastic organization.  Stale repositories (mostly from hackathons) are in the phylotastic-legacy organization.  
+
 
 ## get involved
 
