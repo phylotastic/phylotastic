@@ -10,10 +10,10 @@ The main web page at [www.phylotastic.org][phylotastic-web] provides demonstrati
 
 As of 2015, NSF has funded a project to develop a production version of the system.  This is the main repository for the core functionality.
 
-## code repositories
+## resources
 
-The active code repositories are in the github phylotastic organization.  Stale repositories (mostly from hackathons) are in the phylotastic-legacy organization.  
-
+* active code repos are in the github [phylotastic organization](http://github.com/phylotastic) 
+* stale repos (mostly from hackathons) are in the [phylotastic-legacy organization](http://github.com/phylotastic-legacy).  We have a google doc with [meeting notes](https://docs.google.com/document/d/1mgal-qCKOlGGrHC0EsEve2KzxP_LCy_q2Y2_ytOeM6c).
 
 ## get involved
 
