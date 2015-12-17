@@ -13,7 +13,8 @@ As of 2015, NSF has funded a project to develop a production version of the syst
 ## resources
 
 * active code repos are in the github [phylotastic organization](http://github.com/phylotastic) 
-* stale repos (mostly from hackathons) are in the [phylotastic-legacy organization](http://github.com/phylotastic-legacy).  We have a google doc with [meeting notes](https://docs.google.com/document/d/1mgal-qCKOlGGrHC0EsEve2KzxP_LCy_q2Y2_ytOeM6c).
+* stale repos (mostly from hackathons) are in the [phylotastic-legacy organization](http://github.com/phylotastic-legacy)
+* meeting notes are in a [google doc](https://docs.google.com/document/d/1mgal-qCKOlGGrHC0EsEve2KzxP_LCy_q2Y2_ytOeM6c).
 
 ## get involved
 
