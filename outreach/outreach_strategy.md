@@ -2,11 +2,12 @@
 
 ## Vision
 
-The Phylotastic project establishes a central role in the community of practice focused on the challenge of disseminating tree-of-life knowledge.  We establish ties to related projects and offer helpful feedback.  We pursue mutually beneficial collaborations.  We are the go-to resource for disseminating phylogenetic knowledge.  
+Scientists, educators and the general public see the Phylotastic project as the go-to resource for getting expert knowledge of species relationships. The project establishes a central role in the community of practice focused on the challenge of disseminating tree-of-life knowledge.  We establish ties to related projects and offer helpful feedback.  We pursue mutually beneficial collaborations.   
 
 ## Goals 
-Some things we want to accomplish
-* thousands of scientists and educators are aware of our tools and see them as useful
+
+Some things we want to accomplish by reaching out:
+* thousands of scientists and educators are aware of our tools 
 * tens of thousands have seen or used trees delivered phylotastically
 * potential collaborators are aware of our project 
    * academic collaborators 
@@ -25,6 +26,7 @@ Some things we want to accomplish
 ### Communications of news and achievements
 * Scientific publications
    * Publish a paper with every tool
+   * Actively pursue chances to publish work from side-projects
 * Informal communications
    * blogs on related web sites 
 * Social media 
