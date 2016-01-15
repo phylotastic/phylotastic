@@ -6,13 +6,13 @@ The Phylotastic project establishes a central role in the community of practice 
 
 ## Goals 
 Some things we want to accomplish
+* thousands of scientists and educators are aware of our tools and see them as useful
+* tens of thousands have seen or used trees delivered phylotastically
 * potential collaborators are aware of our project 
    * academic collaborators 
    * educators
    * zoo and museum outreach coordinator
-* we have enough community buy-in to ensure that products will be used and tested
-* thousands of scientists and educators are aware of our tools
-* tens of thousands have seen or used trees delivered phylotastically
+* we have enough community buy-in to ensure that we get responses when we ask for feedback or alpha testers
 
 ## Outreach strategies 
 
@@ -22,11 +22,24 @@ Some things we want to accomplish
 * Code is open-source
 * Development model is open
 
-### Formal scientific communications 
-* Publish a paper with every tool
+### Communications of news and achievements
+* Scientific publications
+   * Publish a paper with every tool
+* Informal communications
+   * blogs on related web sites 
+* Social media 
+   * twitter 
 
-### Informal communications
-* blogs on related web sites 
+### Collaboration 
+* educator consultants 
+* research consultants 
+* museum consultants 
 
-### Social media 
-* twitter 
+### Training materials and workshops 
+* presentations at conferences 
+* special workshops 
+* 
+
+### Community testing and RFCs 
+* broadcast requests for comment on APIs
+* develop small community of user-testers
