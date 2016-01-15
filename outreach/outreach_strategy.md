@@ -2,7 +2,7 @@
 
 ## Vision
 
-Scientists, educators and the general public see the Phylotastic project as the go-to resource for getting expert knowledge of species relationships. The project establishes a central role in the community of practice focused on the challenge of disseminating tree-of-life knowledge.  We establish ties to related projects and offer helpful feedback.  We pursue mutually beneficial collaborations.   
+Scientists, educators and the general public see the Phylotastic project as the go-to resource for getting expert knowledge of species relationships. We play a central role in the community of practice focused on the challenge of disseminating tree-of-life knowledge.  We establish ties to related projects and offer helpful feedback.  We pursue mutually beneficial collaborations with scientists, educators and museum staff.   
 
 ## Goals 
 
@@ -13,7 +13,7 @@ Some things we want to accomplish by reaching out:
    * academic collaborators 
    * educators
    * zoo and museum outreach coordinator
-* we have enough community buy-in to ensure that we get responses when we ask for feedback or alpha testers
+* we have enough community buy-in to ensure that we get responses when we ask for feedback or participation
 
 ## Outreach strategies 
 
@@ -25,8 +25,16 @@ Some things we want to accomplish by reaching out:
 
 ### Communications of news and achievements
 * Scientific publications
-   * Publish a paper with every tool
-   * Actively pursue chances to publish work from side-projects
+   * Publish a software paper for every tool.  Some ideas: 
+      * Generalized Web UI with underlying web-services architecture
+      * Automated planning and execution of workflows to extract phylogenetic knowledge
+      * MySafari: Capture and mashup species names at any zoo or museum
+   * Publish in the educational literature
+      * Teaching about biodiversity with online phylogenetics tools
+   * Actively pursue chances to publish scientific side-projects
+      * analyses of high-value datasets 
+      * evaluations of OpenTree content
+      * evaluations of name processing
 * Informal communications
    * blogs on related web sites 
 * Social media 
@@ -34,13 +42,16 @@ Some things we want to accomplish by reaching out:
 
 ### Collaboration 
 * educator consultants 
+   * high school
+   * university
 * research consultants 
 * museum consultants 
 
-### Training materials and workshops 
+### Training materials, workshops, hackathons
 * presentations at conferences 
 * special workshops 
-* 
+   * workshop on APIs
+* year 3 hackathon 
 
 ### Community testing and RFCs 
 * broadcast requests for comment on APIs
