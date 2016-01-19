@@ -8,7 +8,7 @@ This repo is the administrative home for the Phylotastic project and the Phylota
 
 The main web page at [www.phylotastic.org][phylotastic-web] provides demonstrations (screencasts, live software) and further information.
 
-As of 2015, NSF has funded a project to develop a production version of the system.  This is the main repository for the core functionality.
+As of 2015, NSF has funded a project to develop a production version of the system.  The NSF-funded project has taken over the resources previously maintained by a loose consortium of former hackathon participants and organizers.   
 
 ## resources
 
