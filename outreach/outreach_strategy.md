@@ -21,7 +21,8 @@ Some things we want to accomplish by reaching out:
 * We maintain a public chat room for project communications.   
 * We welcome visitors and engage with them 
 * Code is open-source
-* Development model is open
+* Development model is open and well documented
+* Provide usable/accessible portals
 
 ### Communications of news and achievements
 * Scientific publications
@@ -51,6 +52,7 @@ Some things we want to accomplish by reaching out:
 * presentations at conferences 
 * special workshops 
    * workshop on APIs
+   * focused groups on targeted applications of Phylotastic (e.g., centered around one use case)
 * year 3 hackathon 
 
 ### Community testing and RFCs 
