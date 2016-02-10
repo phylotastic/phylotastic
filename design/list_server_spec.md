@@ -20,21 +20,6 @@ There are many kinds of checklists.  In fact, there is an actual online journal 
 
 Many birders keep lists of all the birds they have seen.  We might be able to coordinate with mobile birding apps.  The apps could post to the SLS, which would make the list accessible to other tools such as phylotastic tools.  
 
-## Applicable standards 
-
-"Darwin Core Archive" is the clearly applicable data standard for checklists and other kinds of species lists.  The "archive" means that the format includes separate files.  There is a "core data file", recommended to be in csv format, which can be very simple, e.g., 
-
-taxonID,vernacularName,taxonRank<br>
-123,"Physeter catodon Linnaeus","species"<br>
-124,"Eschrictius gibbous Erxleben","species"<br>
-125,"Grampus griseus Cuvier", "species"<br>
-
-Then there are other possible files that extend this.  We will probably want to have a metadata file that explains the format of the core file along with metadata on the list.  
-
-Sources
-* http://links.gbif.org/gbif_dwc-a_how_to_guide_en_v1
-* http://www.gbif.org/resource/80647
-
 ## Specification 
 
 Minimal properties of a species list 
@@ -53,3 +38,18 @@ Additional properties that may be useful
    * taxonomic authority - if same for all species 
 * element properties 
    * taxonomic authority - if different for different elements of list 
+
+## Applicable standards 
+
+"Darwin Core Archive" is the clearly applicable data standard for checklists and other kinds of species lists.  The "archive" means that the format includes separate files.  There is a "core data file", recommended to be in csv format, which can be very simple, e.g., 
+
+taxonID,vernacularName,taxonRank<br>
+123,"Physeter catodon Linnaeus","species"<br>
+124,"Eschrictius gibbous Erxleben","species"<br>
+125,"Grampus griseus Cuvier", "species"<br>
+
+Then there are other possible files that extend this.  We will probably want to have a metadata file that explains the format of the core file along with metadata on the list.  
+
+Sources
+* http://links.gbif.org/gbif_dwc-a_how_to_guide_en_v1
+* http://www.gbif.org/resource/80647
