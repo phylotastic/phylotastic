@@ -24,10 +24,10 @@ Many birders keep lists of all the birds they have seen.  We might be able to co
 
 "Darwin Core Archive" is the clearly applicable data standard for checklists and other kinds of species lists.  The "archive" means that the format includes separate files.  There is a "core data file", recommended to be in csv format, which can be very simple, e.g., 
 
-taxonID,vernacularName,taxonRank
-123,"Physeter catodon Linnaeus","species"
-124,"Eschrictius gibbous Erxleben","species"
-125,"Grampus griseus Cuvier", "species"
+taxonID,vernacularName,taxonRank<br>
+123,"Physeter catodon Linnaeus","species"<br>
+124,"Eschrictius gibbous Erxleben","species"<br>
+125,"Grampus griseus Cuvier", "species"<br>
 
 Then there are other possible files that extend this.  We will probably want to have a metadata file that explains the format of the core file along with metadata on the list.  
 
