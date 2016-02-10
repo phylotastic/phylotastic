@@ -22,7 +22,8 @@ Many birders keep lists of all the birds they have seen.  We might be able to co
 
 ## Specification 
 
-Minimal properties of a species list 
+### Species lists 
+Minimal properties
 * unique identifier 
 * display name 
 * list of species 
@@ -38,6 +39,20 @@ Additional properties that may be useful
    * taxonomic authority - if same for all species 
 * element properties 
    * taxonomic authority - if different for different elements of list 
+
+### Interfaces 
+Basic operations with single lists
+* support retrieval of unique list by ID or name
+* support posting of new list in standard form (see below) 
+   * assign internally unique ID
+
+Basic operations with multiple lists 
+* support retrieval of sets of list-names (and other metadata) 
+   * including the complete list of all available lists
+   * including subsets defined by a string search
+
+Advanced operations with single lists 
+* support validation of names in submitted list using name-matcher 
 
 ## Applicable standards 
 
