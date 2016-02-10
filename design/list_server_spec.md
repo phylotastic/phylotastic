@@ -1,4 +1,4 @@
-# Species List Server (SLS) specification
+# Species List Server specification
 
 ## Purpose 
 The list server provides programmatic access to lists of species.  
