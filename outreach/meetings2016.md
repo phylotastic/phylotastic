@@ -1,5 +1,5 @@
 ## 2016 meetings
-* Evolution 2016: June 17-21 in Austin, TX
+* Evolution 2016: June 17-21 in Austin, TX http://www.evolutionmeetings.org
 * Botany 2016: July 30-Aug 3 in Savannah, GA (accepting workshop proposals)
 * 96th Annual Meeting of the American Society of Mammalogists: June 24-28 in Minneapolis, MN
 * XXV International Congress of Entomology (ICE 2016): Sept. 25-30 in Orlando, FL
