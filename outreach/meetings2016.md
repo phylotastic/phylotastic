@@ -13,3 +13,5 @@
 * 16th International Symposium on Microbial Ecology: 21-26 August in Montreal, Canada
 * ISMB 2016 Intelligent Systems for Molecular Biology: 8-12 July in Orlando FL
 * International Society of Computational Biology Latin America 2016: 21-23 Nov in Buenos Aires, Argentina
+* Global Biodiversity Genomics Conference to be held in Washington, D.C. USA from November 9-11, 2016
+* TDWG annual conference in La Fortuna, Costa Rica, December 5-9, 2016. http://tdwg.us9.list-manage1.com/track/click?u=50f3cc44307841383062ca0d6&id=e693f97eba&e=3279995c87
