@@ -6,14 +6,17 @@ Scientists, educators and the general public see the Phylotastic project as the 
 
 ## Goals 
 
-Some things we want to accomplish by reaching out:
-* thousands of scientists and educators are aware of our tools 
-* tens of thousands have seen or used trees delivered phylotastically
-* potential collaborators are aware of our project 
+This project aims to develop useful tools that will disseminate phylogenetic knowledge, lowering barriers and generally making the ToL more accessible to researchers, educators, and the general public. In order to succeed, it is important for people other than project staff to be involved in (1) providing feedback on tools and ideas and (2) actually using the services both for testing and for practical purposes.  Achieving a high level of success will also involve cooperation with other projects.  
+
+Success in outreach means that we can
+* obtain feedback from 10s of formal or informal consultants each quarter, as needed
+* attract attention to our tools from 1000s of scientists and educators 
+* disseminate phylotastic trees to 10,000s
+* attract interest from potential collaborators 
    * academic collaborators 
    * educators
    * zoo and museum outreach coordinator
-* we have enough community buy-in to ensure that we get responses when we ask for feedback or participation
+* build a user base of 100s that use the system at least quarterly
 
 ## Outreach strategies 
 
@@ -22,39 +25,75 @@ Some things we want to accomplish by reaching out:
 * We welcome visitors and engage with them 
 * Code is open-source
 * Development model is open and well documented
-* Provide usable/accessible portals
+* We provide a useable and accessible portal
+
+### Project announcements and recruitment 
+* We advertise widely when 
+   * a position in the project becomes open
+   * a new tool or major version is released 
+   * we want feedback on proposed plans or changes
 
 ### Communications of news and achievements
-* Scientific publications
-   * Publish a software paper for every tool.  Some ideas: 
-      * Generalized Web UI with underlying web-services architecture
-      * Automated planning and execution of workflows to extract phylogenetic knowledge
-      * MySafari: Capture and mashup species names at any zoo or museum
-   * Publish in the educational literature
-      * Teaching about biodiversity with online phylogenetics tools
-   * Actively pursue chances to publish scientific side-projects
-      * analyses of high-value datasets 
-      * evaluations of OpenTree content
-      * evaluations of name processing
 * Informal communications
    * blogs on related web sites 
 * Social media 
    * twitter 
+   * news feed
 
 ### Collaboration 
-* educator consultants 
-   * high school
-   * university
-* research consultants 
-* museum consultants 
+* Pursue collaborations as opportunities arise 
+* Pursue collaborations for a specified target 
+* Develop relationships with consultants and testers
+   * educators 
+   * researchers 
+   * curators 
 
 ### Training materials, workshops, hackathons
 * presentations at conferences 
 * special workshops 
    * workshop on APIs
-   * focused groups on targeted applications of Phylotastic (e.g., centered around one use case)
+   * focused groups on targeted applications of Phylotastic (single use case)
 * year 3 hackathon 
 
-### Community testing and RFCs 
-* broadcast requests for comment on APIs
-* develop small community of user-testers
+### Scientific publications
+* Publish a software paper for every tool.  Some ideas: 
+   * Generalized Web UI with underlying web-services architecture
+   * Automated planning and execution of workflows to extract phylogenetic knowledge
+   * MySafari: Capture and mashup species names at any zoo or museum
+* Publish in the educational literature
+   * Teaching about biodiversity with online phylogenetics tools
+* Actively pursue chances to publish scientific side-projects
+   * analyses of high-value datasets 
+   * evaluations of OpenTree content
+   * evaluations of name processing
+
+## Specific deliverables for the first project year
+
+### Open science 
+* ~~Set up a public chat room for project communications~~ 2015 Q4
+* ~~Welcome visitors and engage with them~~ 2015 Q4
+* ~~Code is open-source~~ 2015 Q4
+* Development model is open and well documented
+* We provide a useable and accessible portal 2016 Q2
+
+### Project announcements and recruitment 
+* ~~advertise post-doc position~~ 2015 Q3 
+* advertise for undergraduate interns as needed 2015 Q1
+
+### Communications of news and achievements
+* Write a blog introducing the web tool 2016 Q2 
+* Maintain active twitter profile (ongoing)
+* Set up news feed 2016 Q2
+
+### Collaboration 
+* Pursue collaboration with YW for species page-rank 2016 Q2
+* Pursue collaboration with WM for Mesquite-o-tastic 2016 Q2
+* Cultivate relationships with educators and curators 2016 Q1
+
+### Training materials, workshops, hackathons
+* arrange to present web tool at 2 workshops in 2016 Q2
+
+### Scientific publications
+* draft a manuscript describing the web tool and general archictecture
+* identify opportunities for scientific side-projects
+* identify opportunities for technical side-projects
