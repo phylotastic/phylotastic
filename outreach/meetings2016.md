@@ -15,3 +15,6 @@
 * International Society of Computational Biology Latin America 2016: 21-23 Nov in Buenos Aires, Argentina
 * Global Biodiversity Genomics Conference to be held in Washington, D.C. USA from November 9-11, 2016
 * TDWG annual conference in La Fortuna, Costa Rica, December 5-9, 2016. http://tdwg.us9.list-manage1.com/track/click?u=50f3cc44307841383062ca0d6&id=e693f97eba&e=3279995c87
+* 
+## 2016 workshops of interest
+https://cms.usm.maine.edu/bio/ngp
