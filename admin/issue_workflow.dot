@@ -1,0 +1,13 @@
+digraph "workflow" { 
+rank=same;
+Idea [color="grey"];
+Backlog [label="Backlog\n(unprioritized)"];
+Ready [label="Ready\n(prioritized)"];
+IP [label="In\nprogress"];
+IR [label="In\nreview"];
+Idea -> Backlog [label=" Anyone, anytime", color="grey"];
+Backlog -> Ready [label=" PI or team\nprioritizes"];
+Ready -> IP [label=" Developer\nchooses"];
+IP -> IR [label=" Developer\ndecides"];
+IR -> Done [label=" Team\ndecides"];
+}
