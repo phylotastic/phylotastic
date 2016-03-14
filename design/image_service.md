@@ -51,9 +51,9 @@ We might also want
 ### Format and size
 
 The first 3 thumbnails I got from EOL were 3 different sizes: 
-* 98 X 65 
-* 93 X 68
-* 98 X 55
+* 98 X 65 ![Apis mellifera](some_thumbnails/bee.jpg "Apis mellifera")
+* 93 X 68 ![Panthera leo](some_thumbnails/lion.jpg "Panthera leo")
+* 98 X 55 ![Lepisosteus osseus](some_thumbnails/gar.jpg "Lepisosteus osseus")
 
 This creates the potential for generating figures with a sloppy appearance.  For a clean look, some standardization would be required.  One approach is to pick a maximum frame of Wmax x Hmax (e.g., 120 x 80), and then implement the following rules 
 * if image is smaller in a dimension, align horizontal=left or vertical=center in frame
