@@ -55,12 +55,10 @@ The first 3 thumbnails I got from EOL were 3 different sizes:
 * 93 X 68
 * 98 X 55
 
-One approach is to pick a maximum frame of Wmax x Hmax (e.g., 120 x 80), and then implement the following rules 
-* if image is smaller, align horizontal=left and vertical=center in frame
-* if image W > Wmax, crop left and right equally to fit
-   * more sophisticated: resize image
-* if image H > Hmax, crop above and below equally to fit
-   * more sophisticated: resize image
+This creates the potential for generating figures with a sloppy appearance.  For a clean look, some standardization would be required.  One approach is to pick a maximum frame of Wmax x Hmax (e.g., 120 x 80), and then implement the following rules 
+* if image is smaller in a dimension, align horizontal=left or vertical=center in frame
+* if image W or image H exceeds max, crop left-right equally to fit, or top-bottom equally to fit
+* if both W or H exceed max, resize image 
 
 ### Satisfying license requirements 
 
