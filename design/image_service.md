@@ -11,7 +11,7 @@ The image service returns images in response to species names.  The main purpose
 ## Background 
 
 We need to either build up content ourselves (burdensome), or rely on a source such as EOL.  See below.  Some other possible sources
-* wikispecies - apparently does not have an API, but images could be scraped by a robot looking for an image with the title "<species>" in a thumbnail div. 
+* [wikispecies](https://species.wikimedia.org/wiki/Main_Page) - apparently does not have an API, but images could be scraped by a robot looking for an image with the title "&lt;species_name&gt;" in a thumbnail div. 
 * [phylopic](http://phylopic.org/) - phylopic has an [api](http://phylopic.org/api/), and there are Python and R wrappers for this (see the bottom of the [api](http://phylopic.org/api/) page)
 * note that there are multiple birding apps with nice images but they likely won't want to share with us. 
 * [leafsnap](http://leafsnap.com/) has images of leaves (and often flower and fruit) for all 185 north american trees, plus hundreds (more?) of other species.  
