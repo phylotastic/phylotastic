@@ -64,7 +64,7 @@ This creates the potential for generating figures with a sloppy appearance.  For
 
 **cc-by** says "You must give appropriate credit, provide a link to the license, and indicate if changes were made."
 
-The simplest way to satisfy this is to create a legend strip on each image with tiny text indicating: "Unmodified image by <person> (<license link>)" where license URL = EOL:license, and person = EOL:rightsHolder
+The simplest way to satisfy this is to create a legend strip on each image with tiny text indicating: "Unmodified image by &lt;person&gt; (&lt;license link&gt;)" where license URL = EOL:license, and person = EOL:rightsHolder
 
 ### Size issues 
 
