@@ -1,6 +1,6 @@
 # Mobile App Tester Instructions 
 
-The Phylotastic Trees-to-Go app allows you to (1) take a photo of sign (e.g., museum, zoo, hallway poster), (2) find any scientific names by OCR, adding them to a list, (3) repeat the two previous steps to build up a list, (4) get a tree for the list from OpenTree.  Multiple lists can be maintained. 
+The Phylotastic Trees-to-Go app allows you to (1) take a photo of a sign (e.g., museum, zoo, hallway poster), (2) find any scientific name by OCR (Optical character recognition), adding them to a list, (3) repeat the two previous steps to build up a list, and (4) get a tree for the list from OpenTree.  Multiple lists can be maintained. 
 
 ## What we are asking of you 
 
