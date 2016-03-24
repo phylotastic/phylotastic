@@ -6,7 +6,7 @@ The Phylotastic Trees-to-Go app allows you to (1) take a photo of a sign (e.g., 
 
 This is an initial implementation, without any frills.  Tree-visualization is very basic, but the ability to capture names from signage is quite good.  Our goal is to find out whether anyone would find this useful, so that we can decide whether to continue development, and in what direction.  
 
-We encourage you to be open-minded about using this.  One of our team members captured 266 names from a photo of a printed page of genera (~12-pt font) taped to a wall. ![museum list](https://github.com/phylotastic/Phylotastic_Mobile_Application/blob/master/test/images/hard/listseedplants.jpg=400x)
+We encourage you to be open-minded about using this.  One of our team members captured 266 names from a photo of a printed page of genera (~12-pt font) taped to a wall. ![museum list](https://github.com/phylotastic/Phylotastic_Mobile_Application/blob/master/test/images/hard/listseedplants.jpg =400x)
 
 ## How to install 
 
