@@ -1,4 +1,4 @@
-## List of features necessary
+## List of necessary features 
 
 ### Priority 1
    * Provide visualisation of phylogenetic trees
