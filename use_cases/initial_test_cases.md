@@ -1,10 +1,10 @@
 # Initial test cases 
  
- ## Purpose and format
+## Purpose and format
  
  The idea here is to start identifying specific cases to use in testing and exploring performance.  
  
- ## Cases
+## Cases
  
  * Allometry of milk intake at peak lactation (article)
     * resource: PDF downloaded from [https://www.researchgate.net/publication/233851685_Allometry_of_milk_intake_at_peak_lactation](https://www.researchgate.net/publication/233851685_Allometry_of_milk_intake_at_peak_lactation) 
