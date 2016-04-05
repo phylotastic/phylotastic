@@ -12,6 +12,10 @@ We encourage you to be open-minded about using this.  One of our team members ca
 
 You will receive an invitation from Apple to install TestFlight, which allows us to distribute our app to selected users. Updates will be done through TestFlight. 
 
+1.  Install TestFlight just like you would install any other app.
+2.  Use the TestFlight app to install the Phylotastic mobile app. 
+3.  Launch the app just like you would launch any other app.  Sign in using your google credentials.  You must have a google account to use the app. 
+
 ## How to give feedback 
 
 Help us to stay focused on the big picture-- what we need most is to know who would use this app?  How would they use it?  What features would enhance its power and useability?   
@@ -27,10 +31,10 @@ Even if the issue exists already, say something!  This helps us to know what's i
 
 For bugs, describe it to us like we're children, one small step at a time-- tell us exactly what the app does, and why the app's behavior is wrong or unexpected. 
 
-For new features, tell us what you want to accomplish, and why. What is the start, and what is the end?  
+For new features, tell us what you want to accomplish, and why. What is the starting condition, and what is the ending condition?  
 
 ## Tips and tricks 
 
-* The swipe-to-delete feature works but doesn't depict the swiping graphically.  You'll know it worked when you get an alert box asking if you want to delete a name.
+* The swipe-to-delete feature (for editing lists) works but doesn't depict the swiping very gracefully.  You'll know it worked when you get an alert box asking if you want to delete a name.
 
 * If you want to look at your tree outside the app, or share it with someone, go to the tree view (Home --> List --> Get Tree), select "Export", then "View in Browser".  This sends the tree (inside a URL) to a display service.  You can then use whatever sharing capabilities your browser has.  In iOS, this means you can press one button to share via Text, Mail, Twitter, Facebook, Google+, etc. 
