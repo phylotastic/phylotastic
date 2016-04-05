@@ -12,7 +12,7 @@ We encourage you to be open-minded about using this.  One of our team members ca
 
 You will receive an invitation from Apple to install TestFlight, which allows us to distribute our app to selected users. Updates will be done through TestFlight. 
 
-1.  Install TestFlight just like you would install any other app.
+1.  Find TestFlight in the app store and install it just like you would install any app.
 2.  Use the TestFlight app to install the Phylotastic mobile app. 
 3.  Launch the app just like you would launch any other app.  Sign in using your google credentials.  You must have a google account to use the app. 
 
