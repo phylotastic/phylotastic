@@ -20,18 +20,17 @@ You will receive an invitation from Apple to install TestFlight, which allows us
 
 Help us to stay focused on the big picture-- what we need most is to know who would use this app?  How would they use it?  What features would enhance its power and useability?   
 
-Feel free to email us.  However, we prefer to get feedback via GitHub issues, so that your bug report or feature request goes right into our development workflow.  
-
-1. Go to the "issues" page at https://github.com/phylotastic/Phylotastic_Mobile_Application/issues
-2. Search to see if the issue has been posted already (add terms to the "Filters" box at left and click "Filters").  
-   * if the issue already exists, add clarifying comments, or just a "+1"
-   * if the issue doesn't exist, click the green "New Issue" button at right
-
-Even if the issue exists already, say something!  This helps us to know what's important.  
-
-For bugs, describe it to us like we're children, one small step at a time-- tell us exactly what the app does, and why the app's behavior is wrong or unexpected. 
-
-For new features, tell us what you want to accomplish, and why. What is the starting condition, and what is the ending condition?  
+Here are 3 relatively easy ways to give feedback
+1. (preferred, real-time, interactive) use our public chatroom at https://gitter.im/phylotastic/phylotastic
+   * sign up for github and gitter if you haven't already
+   * type "@\all, i have a { comment | question | feature request | bug report } on the mobile app"
+   * wait for someone to reply, then tell us-- we'll get the info and fill out a ticket
+2. use the "issues" page at https://github.com/phylotastic/Phylotastic_Mobile_Application/issues
+   * Search to see if the issue has been posted already (add terms to the "Filters" box at left and click "Filters").  
+      * if the issue already exists, add clarifying comments, or just a "+1"
+      * if the issue doesn't exist, click the green "New Issue" button at right
+   * Even if the issue exists already, say something!  This helps us to know what's important.  
+3. just email one of us, and we'll fill out a ticket for you
 
 ## Tips and tricks 
 
