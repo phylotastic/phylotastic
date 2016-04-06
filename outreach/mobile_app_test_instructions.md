@@ -21,15 +21,18 @@ You will receive an invitation from Apple to install TestFlight, which allows us
 Help us to stay focused on the big picture-- what we need most is to know who would use this app?  How would they use it?  What features would enhance its power and useability?   
 
 Here are 3 relatively easy ways to give feedback
+
 1. (preferred, real-time, interactive) use our public chatroom at https://gitter.im/phylotastic/phylotastic
    * sign up for github and gitter if you haven't already
    * type "@\all, i have a { comment | question | feature request | bug report } on the mobile app"
    * wait for someone to reply, then tell us-- we'll get the info and fill out a ticket
+  
 2. use the "issues" page at https://github.com/phylotastic/Phylotastic_Mobile_Application/issues
    * Search to see if the issue has been posted already (add terms to the "Filters" box at left and click "Filters").  
       * if the issue already exists, add clarifying comments, or just a "+1"
       * if the issue doesn't exist, click the green "New Issue" button at right
    * Even if the issue exists already, say something!  This helps us to know what's important.  
+  
 3. just email one of us, and we'll fill out a ticket for you
 
 ## Tips and tricks 
