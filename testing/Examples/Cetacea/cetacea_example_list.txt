@@ -1,0 +1,23 @@
+Erinaceus europaeus
+Sorex araneus
+Myotis lucifugus
+Pteropus vampyrus
+Felis catus
+Canis familiaris
+Ailuropoda melanoleuca
+Mustela putorius furo
+Equus caballus
+Vicugna pacos
+Sus scrofa
+Bos taurus
+Ovis aries
+Hippopotamus amphibius
+Balaenoptera acutorostrata
+Megaptera novaeangliae
+Balaenoptera physalus
+Physeter macrocephalus
+Lipotes vexillifer
+Neophocaena phocaenoides
+Orcinus orca
+Sousa chinensis
+Tursiops truncatus
