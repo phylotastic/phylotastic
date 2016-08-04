@@ -4,17 +4,17 @@
 
 * plan to arrive Las Cruces Thurs night 
 * fly into El Paso
-* 50-mile shuttle ride to Las Cruces
-* hotel Sleep Inn
-* plan to leave > 3:00 pm on Sunday
+* help available from Becca at NMSU: 
+   * 50-mile shuttle ride to Las Cruces
+   * hotel Sleep Inn University
+* end at noon; shuttle leaves at 1:00 pm; don't book flights < 3:00 pm
 
 ## participants 
 
 * all team members 
-* outside consultants?  
-   * BS? MSR?  RW? 
+* outside consultants - not this time, maybe next time
 
-## Goals 
+## Suggested goals 
 
 * Improve working relationships and communication
 * Evaluate first year project management
@@ -28,7 +28,7 @@
    * products 
    * extending, building out - workshops
 
-## Agenda 
+## Tentative agenda 
 
 * Friday 
    * review & evaluation of products (web services, registry, tools, docs)
