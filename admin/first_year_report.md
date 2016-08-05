@@ -8,13 +8,13 @@ The vision of the Phylotastic project is to make getting species trees as easy a
 
 Rather than building a centralized tool that does this, we envision an ecology of interacting web services that together provide the functionality to support many different workflows via custom clients, or generalized clients.  
 
-### Goals
+## Goals
 
 1. Design a sustainable architecture for ToL delivery. 
 2. Implement a production service and reference implementation. 
 3. Cultivate a community resource. 
 
-### Centers 
+## Centers 
 
 Project activities take place on 4 work sites
 
@@ -37,9 +37,7 @@ Project activities take place on 4 work sites
    * provide a service for recognizing taxonomic names (GNRD and related services)
    * participate in the design process
 
-## Accomplishments 
-
-### Requirements-gathering and design 
+## Accomplishments: Requirements-gathering and design 
 
 * Development of use-case descriptions
 * Collection of concrete examples 
@@ -48,41 +46,41 @@ Project activities take place on 4 work sites
    * feedback on portal mockup
 * Analysis of viewer requirements  
 
-### Software development 
+## Accomplishments: Software development 
 
-#### Web services newly implemented for this project
+### Web services newly implemented for this project
 
-1.  **Find Scientific Names on webpages with GNRD** A service for finding scientific names on web pages using Global Names Recognition and Discovery
+1.  *Find Scientific Names on webpages with GNRD*. A service for finding scientific names on web pages using Global Names Recognition and Discovery
 ([GNRD](http://gnrd.globalnames.org/)).
 
-2. **Find Scientific Names on free-form text with GNRD**  A service for finding scientific names on free texts using Global Names Recognition and Discovery
+2. *Find Scientific Names on free-form text with GNRD*.  A service for finding scientific names on free texts using Global Names Recognition and Discovery
 ([GNRD](http://gnrd.globalnames.org/)).
    
-3. **Resolve Scientific Names with OpenTreeOfLife**  A service for taxonomic name resolution of scientific names using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#tnrs).
+3. *Resolve Scientific Names with OpenTreeOfLife*.  A service for taxonomic name resolution of scientific names using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#tnrs).
 
-4. **Resolve Scientific Names with GNR**  A service for taxonomic name resolution of scientific names using Global Names Resolver ([GNR](http://resolver.globalnames.org)).
+4. *Resolve Scientific Names with GNR*.  A service for taxonomic name resolution of scientific names using Global Names Resolver ([GNR](http://resolver.globalnames.org)).
    
-5. **Get Phylogenetic trees from OpenTreeOfLife**  A service for getting Phylogenetic Trees from [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy).
+5. *Get Phylogenetic trees from OpenTreeOfLife*.  A service for getting Phylogenetic Trees from [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy).
 
-6. **Get all Species from a Taxon using OpenTreeOfLife**   A service for getting all Species that belong to a particular Taxon using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy)
+6. *Get all Species from a Taxon using OpenTreeOfLife*.   A service for getting all Species that belong to a particular Taxon using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy)
 
-7. **Get all Species (from a Taxon) that established in a particular country using OpenTreeOfLife and Inaturalist** A service for getting all Species (from a Taxon) that established in a particular country using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy) and [Inaturalist](http://www.inaturalist.org/pages/api+reference#get-places)
+7. *Get all Species (from a Taxon) that established in a particular country using OpenTreeOfLife and Inaturalist*. A service for getting all Species (from a Taxon) that established in a particular country using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy) and [Inaturalist](http://www.inaturalist.org/pages/api+reference#get-places)
 
-8. **Get images of a species using EOL**  A service to get image urls of a species using [EOL](http://eol.org/api).
+8. *Get images of a species using EOL*.  A service to get image urls of a species using [EOL](http://eol.org/api).
    
-9. **Get Species (of a Taxon) that have genome sequence in [NCBI](http://www**ncbi.nlm.nih.gov/).  A service to get subset of Species that belong to a particular Taxon and have genome sequence in [NCBI](http://www.ncbi.nlm.nih.gov/books/NBK25500/#chapter1.Finding_Related_Data_Through_En).
+9. **Get Species (of a Taxon) that have genome sequence in [NCBI](http://www.ncbi.nlm.nih.gov/)**.  A service to get subset of Species that belong to a particular Taxon and have genome sequence in [NCBI](http://www.ncbi.nlm.nih.gov/books/NBK25500/#chapter1.Finding_Related_Data_Through_En).
 
-10. **Get lists of species**  A service to get lists of species that a user of phylotastic web application has published
+10. *Get lists of species*.  A service to get lists of species that a user of phylotastic web application has published
 
-11. **Post a new list of species**  A service to insert a new list of species by a phylotastic web application user.
+11. *Post a new list of species*.  A service to insert a new list of species by a phylotastic web application user.
 
-12. **Replace species of an existing list**  A service to replace the existing species objects with new species object of an existing list.
+12. *Replace species of an existing list*.  A service to replace the existing species objects with new species object of an existing list.
 
-13. **Remove an existing list**  A service to remove an existing list.
+13. *Remove an existing list*.  A service to remove an existing list.
 
-14. **Compare Phylogenetic Trees**  A service to compare two Phylogenetic Trees using [dendropy](http://dendropy.org/library/treecompare.html#module-dendropy.calculate.treecompare)
+14. *Compare Phylogenetic Trees*.  A service to compare two Phylogenetic Trees using [dendropy](http://dendropy.org/library/treecompare.html#module-dendropy.calculate.treecompare)
 
-#### Web services registry designed and implemented for this project
+### Web services registry designed and implemented for this project
 
 The web services registry (http://phylo.cs.nmsu.edu:8080/WSRegistry/) supports the following functions:
 * Log in/out as user/admin.
@@ -90,7 +88,7 @@ The web services registry (http://phylo.cs.nmsu.edu:8080/WSRegistry/) supports t
 * Edit description of web services.
 * Remove wsdl files and relevant description.
 
-#### Mobile app  designed and implemented  this project
+### Mobile app  designed and implemented  this project
 
 Currently, the mobile app 
 * obtains images from the device's camera or photo library
@@ -106,7 +104,7 @@ The app passed a quality check to be distributed on the Apple appstore.
 
 The strategy of capturing names from signage makes the mobile app very general.  It can be used at any zoo, arboretum, garden, museum collection, etc., that has signage with printed scientific names.  There is no need to coordinate with the institution.  
 
-#### Portal designed and implemented  for this project
+### Portal designed and implemented  for this project
 The web portal is a Rails application accessed through any browser at http://phylo.cs.nmsu.edu:3000.  
 
 Currently the web portal 
@@ -127,15 +125,15 @@ Currently the web portal
 * displays the phylogeny with species images (via EOL) 
 * maintains a gallery of saved trees
 
-#### TNRS improvements for this project
+### TNRS improvements for this project
 
 * revisions and improvements to NetiNeti and namefinder
 
-#### DateLife improvements for this project
+### DateLife improvements for this project
 
 Substantial updates to DateLife. [R package that runs the main functions](https://github.com/phylotastic/datelife) is now separate (and useful on its own) from the [web interface code](https://github.com/phylotastic/datelifeweb) (which now includes an API). Changes haven't moved over to the datelife.org server yet, but see https://github.com/phylotastic/datelifeweb for how to install and play with GUI and https://phylotastic.ocpu.io/datelifeweb for the continuous integration test version. Still premature to do real testing on this (unit testing being built in to the core code, not for the web yet).
   
-### Installations 
+## Accomplishments: Installations 
 
 * registry
    * registry
@@ -149,35 +147,35 @@ Substantial updates to DateLife. [R package that runs the main functions](https:
    * Android
    * iOS
 
-### Testing and evaluation  
+## Accomplishments: Testing and evaluation  
 
-#### Automated testing 
+### Automated 
 
 We have developed an infrastructure for automated testing of services based on the Travis framework.  This consists mainly of black-box tests.  
 
-#### Field-tests of mobile app 
+### Field-tests of mobile app 
 
 The mobile app was tested informally at the Washington National Zoo, Shedd Aquarium, and Longwood Gardens.  
 
-#### Content and accuracy analysis of name recognition
+### Content and accuracy analysis of name recognition
 
 (dail's content analysis)
 
-#### Test cases and example data
+### Test cases and example data
 
 Mainly for purposes of formative evaluation, we have gathered a variety of concrete examples and test cases including
 * ~150 photographs of signs from zoos, museums, gardens, etc, used to evaluate OCR and name-recognition 
 * 8 studies with test files for name-recognition in PDFs, text and jpg
 * collections of 20 species lists of various types for use in testing, including surveys or inventories of particular taxa and regions, redlists, arbitrary samples of a taxon, and species names identified in a particular digital source 
 
-### Documentation 
+## Accomplishments: Documentation 
 
 * services docs: https://github.com/phylotastic/phylo_services_docs
 * portal docs: NA
 * mobile app docs: embedded docs only
 * registry docs: see services docs
 
-### Project management 
+## Accomplishments: Project management 
 
 administration 
 * github repos
@@ -186,7 +184,7 @@ administration
 * milestones
 * weekly bullet points
 
-### Collaborations 
+## Accomplishments: Collaborations 
 
 * Other organizations 
    * opentree - KC, JR, JB
