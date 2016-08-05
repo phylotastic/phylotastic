@@ -17,24 +17,25 @@ Rather than building a centralized tool that does this, we envision an ecology o
 ### Centers 
 
 Project activities take place on 4 work sites
-1.  NMSU.  The role of NMSU is to 
-* implement software designs for back-end services, controllers, and clients
-* maintain installations of services, including any necessary hardware
-* participate in design and testing
+
+1. NMSU.  The role of NMSU is to 
+   * implement software designs for back-end services, controllers, and clients
+   * maintain installations of services, including any necessary hardware
+   * participate in design and testing
 
 2. UMD.  The role of UMD is to 
-* provide project leadership and to coordinate activities between the centers
-* to participate in product design
-* to serve as subject-matter experts 
-* to coordinate outreach efforts
+   * provide project leadership and to coordinate activities between the centers
+   * to participate in product design
+   * to serve as subject-matter experts 
+   * to coordinate outreach efforts
 
 3. UTK.  The role of UTK is to
-* provide a service for assigning dates to nodes on trees (DateLife)
-* participate in the design process
+   * provide a service for assigning dates to nodes on trees (DateLife)
+   * participate in the design process
 
 4. UIUC.  The role of UIUC is to
-* provide a service for recognizing taxonomic names (GNRD and related services)
-* participate in the design process
+   * provide a service for recognizing taxonomic names (GNRD and related services)
+   * participate in the design process
 
 ## Accomplishments 
 
