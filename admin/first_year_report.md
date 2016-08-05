@@ -40,50 +40,56 @@ Project activities take place on 4 work sites
 
 ### Requirements-gathering and design 
 
-use-case descriptions.  results of interviews.  
-
-feedback on mobile app mockup
-
-feedback on portal mockup
-
-viewer requirements analysis 
-
+* Development of use-case descriptions
+* Collection of concrete examples 
+* Information from interviewing scientists  
+   * feedback on mobile app mockup
+   * feedback on portal mockup
+* Analysis of viewer requirements  
 
 ### Software development 
 
 #### Web services newly implemented for this project
 
-1.  **Service Name**: Find Scientific Names on webpages with GNRD. A service for finding scientific names on web pages using Global Names Recognition and Discovery
+1.  **Find Scientific Names on webpages with GNRD** A service for finding scientific names on web pages using Global Names Recognition and Discovery
 ([GNRD](http://gnrd.globalnames.org/)).
 
-2. **Service Name**: Find Scientific Names on free-form text with GNRD.  A service for finding scientific names on free texts using Global Names Recognition and Discovery
+2. **Find Scientific Names on free-form text with GNRD**  A service for finding scientific names on free texts using Global Names Recognition and Discovery
 ([GNRD](http://gnrd.globalnames.org/)).
    
-3. **Service Name**: Resolve Scientific Names with OpenTreeOfLife.  A service for taxonomic name resolution of scientific names using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#tnrs).
+3. **Resolve Scientific Names with OpenTreeOfLife**  A service for taxonomic name resolution of scientific names using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#tnrs).
 
-4. **Service Name**: Resolve Scientific Names with GNR.  A service for taxonomic name resolution of scientific names using Global Names Resolver ([GNR](http://resolver.globalnames.org)).
+4. **Resolve Scientific Names with GNR**  A service for taxonomic name resolution of scientific names using Global Names Resolver ([GNR](http://resolver.globalnames.org)).
    
-5. **Service Name**:  Get Phylogenetic trees from OpenTreeOfLife.  A service for getting Phylogenetic Trees from [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy).
+5. **Get Phylogenetic trees from OpenTreeOfLife**  A service for getting Phylogenetic Trees from [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy).
 
-6. **Service Name**:  Get all Species from a Taxon using OpenTreeOfLife.   A service for getting all Species that belong to a particular Taxon using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy)
+6. **Get all Species from a Taxon using OpenTreeOfLife**   A service for getting all Species that belong to a particular Taxon using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy)
 
-7. **Service Name**:  Get all Species (from a Taxon) that established in a particular country using OpenTreeOfLife and Inaturalist. A service for getting all Species (from a Taxon) that established in a particular country using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy) and [Inaturalist](http://www.inaturalist.org/pages/api+reference#get-places)
+7. **Get all Species (from a Taxon) that established in a particular country using OpenTreeOfLife and Inaturalist** A service for getting all Species (from a Taxon) that established in a particular country using [OpenTreeOfLife](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs#taxonomy) and [Inaturalist](http://www.inaturalist.org/pages/api+reference#get-places)
 
-8. **Service Name**:  Get images of a species using EOL.  A service to get image urls of a species using [EOL](http://eol.org/api).
+8. **Get images of a species using EOL**  A service to get image urls of a species using [EOL](http://eol.org/api).
    
-9. **Service Name**: Get Species (of a Taxon) that have genome sequence in [NCBI](http://www.ncbi.nlm.nih.gov/).  A service to get subset of Species that belong to a particular Taxon and have genome sequence in [NCBI](http://www.ncbi.nlm.nih.gov/books/NBK25500/#chapter1.Finding_Related_Data_Through_En).
+9. **Get Species (of a Taxon) that have genome sequence in [NCBI](http://www**ncbi.nlm.nih.gov/).  A service to get subset of Species that belong to a particular Taxon and have genome sequence in [NCBI](http://www.ncbi.nlm.nih.gov/books/NBK25500/#chapter1.Finding_Related_Data_Through_En).
 
-10. **Service Name**: Get lists of species.  A service to get lists of species that a user of phylotastic web application has published
+10. **Get lists of species**  A service to get lists of species that a user of phylotastic web application has published
 
-11. **Service Name**: Post a new list of species.  A service to insert a new list of species by a phylotastic web application user.
+11. **Post a new list of species**  A service to insert a new list of species by a phylotastic web application user.
 
-12. **Service Name**: Replace species of an existing list.  A service to replace the existing species objects with new species object of an existing list.
+12. **Replace species of an existing list**  A service to replace the existing species objects with new species object of an existing list.
 
-13. **Service Name**: Remove an existing list.  A service to remove an existing list.
+13. **Remove an existing list**  A service to remove an existing list.
 
-14. **Service Name**: Compare Phylogenetic Trees.  A service to compare two Phylogenetic Trees using [dendropy](http://dendropy.org/library/treecompare.html#module-dendropy.calculate.treecompare)
+14. **Compare Phylogenetic Trees**  A service to compare two Phylogenetic Trees using [dendropy](http://dendropy.org/library/treecompare.html#module-dendropy.calculate.treecompare)
 
-#### Mobile app newly implemented for this project
+#### Web services registry designed and implemented for this project
+
+The web services registry (http://phylo.cs.nmsu.edu:8080/WSRegistry/) supports the following functions:
+* Log in/out as user/admin.
+* Upload wsdl files and insert description of web services.
+* Edit description of web services.
+* Remove wsdl files and relevant description.
+
+#### Mobile app  designed and implemented  this project
 
 Currently, the mobile app 
 * obtains images from the device's camera or photo library
@@ -99,8 +105,8 @@ The app passed a quality check to be distributed on the Apple appstore.
 
 The strategy of capturing names from signage makes the mobile app very general.  It can be used at any zoo, arboretum, garden, museum collection, etc., that has signage with printed scientific names.  There is no need to coordinate with the institution.  
 
-#### Portal newly implemented for this project
-The web portal is a Rails application accessed through any browser.  
+#### Portal designed and implemented  for this project
+The web portal is a Rails application accessed through any browser at http://phylo.cs.nmsu.edu:3000.  
 
 Currently the web portal 
 * obtains a list by any of 3 main workflows 
@@ -144,23 +150,24 @@ Substantial updates to DateLife. [R package that runs the main functions](https:
 
 ### Testing and evaluation  
 
-#### automated software testing 
-(travis framework. black-box tests)
+#### Automated testing 
 
-#### field-tests of mobile app 
-Natl zoo, Shedd Aquar., etc.
+We have developed an infrastructure for automated testing of services based on the Travis framework.  This consists mainly of black-box tests.  
 
-#### Content and accuracy analysis 
+#### Field-tests of mobile app 
+
+The mobile app was tested informally at the Washington National Zoo, Shedd Aquarium, and Longwood Gardens.  
+
+#### Content and accuracy analysis of name recognition
 
 (dail's content analysis)
 
 #### Test cases and example data
 
-libraries with ~150 photographs of signs from zoos, museums, gardens, etc, used to evaluate OCR and name-recognition 
-
-8 studies with test files for name-recognition in PDFs, text and jpg
- 
-collections of 20 species lists of various types for use in testing, including surveys or inventories of particular taxa and regions, redlists, arbitrary samples of a taxon, and species names identified in a particular digital source 
+Mainly for purposes of formative evaluation, we have gathered a variety of concrete examples and test cases including
+* ~150 photographs of signs from zoos, museums, gardens, etc, used to evaluate OCR and name-recognition 
+* 8 studies with test files for name-recognition in PDFs, text and jpg
+* collections of 20 species lists of various types for use in testing, including surveys or inventories of particular taxa and regions, redlists, arbitrary samples of a taxon, and species names identified in a particular digital source 
 
 ### Documentation 
 
@@ -180,13 +187,13 @@ administration
 
 ### Collaborations 
 
-other orgs
-* opentree - KC, JR, JB
-
-collabs
-* rosindell (onezoom)
-* yan wong 
-* consultants - katja, cyndy, brian, ramona, jen (eol),
+* Other organizations 
+   * opentree - KC, JR, JB
+* Individuals 
+   * JR (OneZoom)
+   * YW
+   * JHC (ETE)
+   * consultants - KS, CP, RW, BS
 * mock-up feedback
    * ~25 prospective users, including researchers, curators, educators, journalists, lay persons 
 
