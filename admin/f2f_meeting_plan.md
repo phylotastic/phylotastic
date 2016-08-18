@@ -21,6 +21,10 @@
    * lessons learned 
    * adjustments needed
 * Complete evaluation of products (most can be done pre-meeting) 
+* share information and address challenges with pending issues
+   * metadata and services description model
+   * portal
+   * planning and composition 
 * Develop plan for first release & commit to the plan
 * Plan for year 2 and beyond
    * outreach (meetings) 
