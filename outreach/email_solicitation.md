@@ -1,0 +1,7 @@
+The Phylotastic project is an NSF-funded project that aims to make species trees as fast and convenient to get as online driving directions.  Our mobile app and web portal will become available this fall.  The mobile app captures species names from photos of signage, builds a list of names, then gets a tree.  The web portal builds lists by extracting names from any electronic resource (e.g., URL, PDF, txt, doc), or by sampling from a named taxon, and then generates a tree with thumbnail images and links to EOL. 
+
+These tools (which rely on existing resources, e.g., OpenTree, GNRD, iNaturalist...) aim to support more casual uses of trees by scientists and educators, rather than high-end research challenges.  
+
+Currently we are looking for advice and for collaborators on educational applications.  Are you currently using images of species trees to teach concepts about evolution or biodiversity?  What kind of concrete examples are used (e.g., a tree showing repeated origins of aquatic mammals)?  Could those images be turned into interactive exercises using Phylotastic tools?  Can you envision uses of Phylotastic tools in field trips or other exercises? 
+
+Please contact us with your ideas.  All ideas will be shared publicly unless you specify otherwise.  We will post a summary to evoldir and follow up on specific cases as needed. 
