@@ -1,0 +1,323 @@
+Crotalus horridus
+Tetraodon nigroviridis
+Gavia stellata
+Takifugu rubripes
+Eulemur macaco
+Vipera berus
+Picoides pubescens
+Xiphophorus maculatus
+Rousettus aegyptiacus
+Struthio camelus australis
+Esox lucius
+Anguilla japonica
+Pseudopodoces humilis
+Aquila chrysaetos canadensis
+Meleagris gallopavo
+Gadus morhua
+Serinus canaria
+Xiphophorus hellerii
+Botryllus schlosseri
+Sarcophilus harrisii
+Eptesicus fuscus
+Physeter catodon
+Leucoraja erinacea
+Buceros rhinoceros silvestris
+Labeotropheus fuelleborni
+Panthera tigris amoyensis
+Melopsittacus undulatus
+Gorilla gorilla gorilla
+Balearica regulorum
+Peromyscus maniculatus
+Corvus cornix cornix
+Astyanax mexicanus
+Rhinolophus ferrumequinum quelpartis
+Marmota marmota marmota
+Chinchilla lanigera
+Pseudopleuronectes yokohamae
+Capreolus capreolus
+Lepisosteus oculatus
+Tauraco erythrolophus
+Cricetulus griseus
+Lyrurus tetrix
+Homo sapiens ssp. Denisova
+Elephantulus edwardii
+Fukomys damarensis
+Nipponia nippon
+Microcebus murinus
+Sebastes rubrivinctus
+Haplochromis burtoni
+Eidolon helvum
+Homo sapiens neanderthalensis
+Choloepus hoffmanni
+Ara macao
+Austrofundulus limnaeus
+Megaderma lyra
+Dasypus novemcinctus
+Orcinus orca
+Odobenus rosmarus divergens
+Nannospalax galili
+Sinocyclocheilus rhinocerous
+Fundulus heteroclitus
+Apteryx australis mantelli
+Falco cherrug
+Mus musculus musculus
+Callorhinchus milii
+Alligator mississippiensis
+Rhinolophus ferrumequinum korai
+Balaenoptera acutorostrata scammoni
+Microtus ochrogaster
+Apteryx australis
+Miichthys miiuy
+Tyto alba
+Mandrillus leucophaeus
+Phoenicopterus ruber
+Heterocephalus glaber
+Cyprinus carpio 'color'
+Propithecus coquereli
+Gasterosteus aculeatus
+Cebus capucinus
+Aptenodytes forsteri
+Macropus eugenii
+Chlorocebus sabaeus
+Cariama cristata
+Lepidothrix coronata
+Tupaia chinensis
+Condylura cristata
+Mus musculus castaneus
+Gavialis gangeticus
+Calypte anna
+Pundamilia nyererei
+Ciona savignyi
+Boleophthalmus pectinirostris
+Bos indicus
+Cyprinus carpio haematopterus
+Manacus vitellinus
+Poecilia formosa
+Otolemur garnettii
+Gallus gallus
+Sinocyclocheilus anshuiensis
+Nasalis larvatus
+Pelecanus crispus
+Ciona intestinalis
+Bison bison bison
+Neolamprologus brichardi
+Struthio camelus
+Rhinolophus ferrumequinum
+Branchiostoma floridae
+Takifugu flavidus
+Bos taurus
+Sorex araneus
+Capra aegagrus
+Ovis aries
+Nestor notabilis
+Mchenga conophoros
+Aquila chrysaetos
+Protobothrops mucrosquamatus
+Chrysochloris asiatica
+Cyprinus carpio carpio
+Scartelaos histophorus
+Dicentrarchus labrax
+Mus musculus
+Bison bison
+Leptosomus discolor
+Colius striatus
+Nanorana parkeri
+Danio rerio
+Cottus rhenanus
+Anser cygnoides
+Anser cygnoides domesticus
+Ovis aries musimon
+Petromyzon marinus
+Oryctolagus cuniculus
+Lyrurus tetrix tetrix
+Fulmarus glacialis
+Galeopterus variegatus
+Taeniopygia guttata
+Poecilia latipinna
+Zosterops lateralis
+Saimiri boliviensis boliviensis
+Pongo abelii
+Caprimulgus carolinensis
+Parus major
+Python bivittatus
+Monodelphis domestica
+Haliaeetus leucocephalus
+Rhamphochromis esox
+Salmo salar
+Periophthalmodon schlosseri
+Sebastes nigrocinctus
+Loxodonta africana
+Echinops telfairi
+Pan troglodytes
+Falco peregrinus
+Apalone spinifera
+Oreochromis niloticus
+Tarsius syrichta
+Nothobranchius furzeri
+Bos mutus
+Thunnus orientalis
+Ictidomys tridecemlineatus
+Cyprinus carpio 'wuyuanensis'
+Poecilia reticulata
+Podiceps cristatus
+Cavia aperea
+Lates calcarifer
+Jaculus jaculus
+Cercocebus atys
+Marmota marmota
+Periophthalmus magnuspinnatus
+Haliaeetus albicilla
+Balaenoptera acutorostrata
+Anolis carolinensis
+Cyprinus carpio 'xingguonensis'
+Cuculus canorus
+Pteropus vampyrus
+Calidris pugnax
+Canis lupus familiaris
+Crocodylus porosus
+Manis pentadactyla
+Merops nubicus
+Pimephales promelas
+Cavia porcellus
+Apodemus sylvaticus
+Amphilophus citrinellus
+Gekko japonicus
+Aotus nancymaae
+Cyprinodon nevadensis pectoralis
+Procavia capensis
+Leptonychotes weddellii
+Tupaia belangeri
+Pan paniscus
+Squalius pyrenaicus
+Zonotrichia albicollis
+Homo sapiens
+Dipodomys ordii
+Coturnix japonica
+Papio anubis
+Branchiostoma belcheri
+Mus musculus domesticus
+Larimichthys crocea
+Myotis lucifugus
+Cyprinodon variegatus
+Poecilia mexicana
+Vicugna pacos huacaya
+Sus scrofa
+Equus przewalskii
+Charadrius vociferus
+Rattus norvegicus
+Pampus argenteus
+Colobus angolensis
+Octodon degus
+Colinus virginianus
+Latimeria chalumnae
+Zosterops lateralis melanops
+Alligator sinensis
+Erinaceus europaeus
+Oryzias latipes
+Ovis canadensis
+Balaenoptera bonaerensis
+Ophiophagus hannah
+Maylandia zebra
+Anoplopoma fimbria
+Macaca nemestrina
+Chrysemys picta bellii
+Rhinopithecus roxellana
+Myotis brandtii
+Cynoglossus semilaevis
+Xiphophorus couchianus
+Mustela putorius furo
+Tinamus guttatus
+Pygoscelis adeliae
+Tursiops truncatus
+Phaethon lepturus
+Phalacrocorax carbo
+Mus spretus
+Pan troglodytes verus
+Acanthisitta chloris
+Ambystoma mexicanum
+Myotis davidii
+Acinonyx jubatus
+Sturnus vulgaris
+Nothobranchius kuhntae
+Apaloderma vittatum
+Egretta garzetta
+Camelus dromedarius
+Pterocles gutturalis
+Macaca fascicularis
+Anguilla rostrata
+Ovis canadensis canadensis
+Macaca mulatta
+Orycteropus afer afer
+Bubalus bubalis
+Felis catus
+Thamnophis sirtalis
+Amazona aestiva
+Camelus ferus
+Clupea harengus
+Panthera tigris altaica
+Miniopterus natalensis
+Vicugna pacos
+Buceros rhinoceros
+Eulemur flavifrons
+Xenopus tropicalis
+Chaetura pelagica
+Odocoileus virginianus
+Lethenteron camtschaticum
+Vipera berus berus
+Orycteropus afer
+Daubentonia madagascariensis
+Trichechus manatus latirostris
+Ceratotherium simum simum
+Balearica regulorum gibbericeps
+Chelonia mydas
+Stegastes partitus
+Corvus cornix
+Scleropages formosus
+Cathartes aura
+Melanochromis auratus
+Mesitornis unicolor
+Microtus agrestis
+Opisthocomus hoazin
+Equus caballus
+Phoenicopterus ruber ruber
+Ficedula albicollis
+Chrysemys picta
+Crotalus mitchellii
+Ochotona princeps
+Panthera tigris
+Lipotes vexillifer
+Mesocricetus auratus
+Sinocyclocheilus grahami
+Anguilla anguilla
+Pantherophis guttatus
+Callithrix jacchus
+Myodes glareolus
+Equus asinus
+Sus scrofa domesticus
+Gorilla gorilla
+Ursus maritimus
+Pteropus alecto
+Notothenia coriiceps
+Peromyscus maniculatus bairdii
+Crotalus mitchellii pyrrhus
+Corvus brachyrhynchos
+Cyprinus carpio
+Capra hircus
+Camelus bactrianus
+Pelodiscus sinensis
+Chlamydotis macqueenii
+Eurypyga helias
+Ornithorhynchus anatinus
+Oikopleura dioica
+Columba livia
+Mus musculus molossinus
+Nomascus leucogenys
+Pteronotus parnellii
+Geospiza fortis
+Pantholops hodgsonii
+Ursus arctos
+Colobus angolensis palliatus
+Anas platyrhynchos
+Amazona vittata
+Cyprinodon nevadensis
+Ailuropoda melanoleuca
