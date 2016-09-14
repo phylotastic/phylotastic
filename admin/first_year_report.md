@@ -39,12 +39,13 @@ Project activities take place on 4 work sites
 
 ## Accomplishments: Requirements-gathering and design 
 
-* Development of use-case descriptions
-* Collection of concrete examples 
-* Information from interviewing scientists  
+* Information gathered from colleagues and others  
    * feedback on mobile app mockup
    * feedback on portal mockup
-* Analysis of viewer requirements  
+* Identification of use-cases and development of descriptions
+   * Based on user interviews, we identified 11 specific cases for use of the portal, including 5 that were identified as high priorities to support, in order to satisfy user needs.  The contexts of the cases included classroom instruction, research, and scientific illustration.  
+* Analysis of viewer requirements 
+   * based on our own experiences and observations, along with feedback from users, we identified and prioritized tree-rendering features.  The list of prioritized features was used to identify visualization tools suitable for use in our portal.  For instance, some high-priority features for scientific users are the ability to create compact rectangular tree representations, to highlight clades, and to display images at tip nodes.  
 
 ## Accomplishments: Software development 
 
@@ -166,13 +167,14 @@ The mobile app was tested informally at the Washington National Zoo, Shedd Aquar
 Mainly for purposes of formative evaluation, we have gathered a variety of concrete examples and test cases including
 * ~150 photographs of signs from zoos, museums, gardens, etc, used to evaluate OCR and name-recognition 
 * 8 studies with test files for name-recognition in PDFs, text and jpg
-* collections of 20 species lists of various types for use in testing, including surveys or inventories of particular taxa and regions, redlists, arbitrary samples of a taxon, and species names identified in a particular digital source 
+* over 20 species lists of various types for use in testing, including surveys or inventories of particular taxa and regions, redlists, arbitrary samples of a taxon, and species names identified in a particular digital source.  For instance, there is a list of 85 liverwort species found on Svalbard. 
+* 10 lists that include metadata in Darwin archive format. 
 
 ## Accomplishments: Documentation 
 
 * services docs: https://github.com/phylotastic/phylo_services_docs
-* portal docs: NA
-* mobile app docs: embedded docs only
+* portal docs: embedded (crude drafts, currently)
+* mobile app docs: embedded docs only (very simple)
 * registry docs: see services docs
 
 ## Accomplishments: Project management 
@@ -207,5 +209,4 @@ This change occurred partly because we realized that (1) we already had done ext
 
 Our original proposal enumerated use-cases targeted toward specialists, scientists with non-specialized needs for trees, educators, and the general public.  Though we will continue to pursue all of these directions, we expect to shift more emphasis to the least critical uses of phylogeny.  This is partly due to a recognition that subtrees obtained from available tree sources are often not of sufficient quality for the most critical uses.  From an arbitrary list of species names, we find good coverage on a per-species basis, but sometimes poor resolution of the tree topology, e.g., a recovered subtree might contain 90 % of the requested species, but often with polytomies that render the tree considerably much less useful than one obtained from the literature.  Obtaining a tree from the literature is a task that requires effort and specialized expertise: low-resolution trees remain useful for users who are not specialists. 
 
-In the image shown of the genus Passerina, for instance, we recover the 7 expected species, including the Blue Grosbeak (P. caerulea), which was classified in a different genus (Guiraca) until rather recently.  The image of the Painted Bunting (P. ciris)  is enlarged and hides the Rose-bellied Bunting (P. rositae) behind it.  This tree essentially reflects the taxonomy only, and does not represent that the Painted Bunting and the Varied Bunting (P. versicolor) likely form a clade, as do the Blue Grosbeak and the Lazuli Bunting (P. amoena; e.g., see Klicka, et al., The Auk 118(3):611–623, 2001).  
 
