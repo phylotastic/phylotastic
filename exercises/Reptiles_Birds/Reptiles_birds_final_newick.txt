@@ -1,0 +1,1 @@
+((Elephas maximus,Cervus canadensis)Eutheria,((((Cardinalis cardinalis,Ara ararauna),Pygoscelis papua),(Crocodylus niloticus,(Alligator mississippiensis,Caiman latirostris)Alligatoridae)Crocodylia)Archosauria,(Terrapene carolina,Chelydra serpentina)Durocryptodira)Archelosauria);
