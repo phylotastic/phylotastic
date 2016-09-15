@@ -1,0 +1,1 @@
+((((Boletus edulis,(Agaricus bisporus,Amanita muscaria)Agaricales),Saccharomyces cerevisiae)Division=Dikarya,(((Rhinoceros unicornis,Equus caballus)Perissodactyla,(Canis lupus,Felis catus)Carnivora),(Cardinalis cardinalis,Alligator mississippiensis)Archosauria))Opisthokonta,((Typha latifolia,(Poa alpina,Carex hirta))Poales,Helianthus annuus))Eukaryota;
