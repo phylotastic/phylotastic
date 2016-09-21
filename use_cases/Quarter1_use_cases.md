@@ -71,7 +71,7 @@ After the trip, the students can discover for themselves the relationships of th
 **Example**: Here are three examples of educators wanting this service to view and show the systematic relationships between large clades.
 
 Example 1: the evolutionary relationship of birds, turtles, crocodilians, lizards, snakes, and mammals.  Their goal is to demonstrate how birds share a more recent common ancestor to turtles and crocodilians, followed by the relationship with the lizards and snakes clade, and ultimately the ancestry with mammals.
-They need the ability to use common names: birds, turtles, crocodilians,lizards, snakes, and mammals as input, request 10 taxa of each, and obtain a phylogeny with thumbnails.
+They need the ability to use common names: birds, turtles, crocodilians, lizards, snakes, and mammals as input, request 10 taxa of each, and obtain a phylogeny with thumbnails.
 
 Example 2: the evolution of land plants.  The educator wants to demonstrate how the embryophytes are a lineage within the chlorophytes (green algae), and more closely related to the freshwater greens.  In this case, the educator wants to query for mosses, ferns, flowering plants, 'marine green algae', and 'freshwater green algae', obtain 10 taxa of each and receive a phylogeny
 
