@@ -32,7 +32,7 @@
 
 Logistics
 * All meetings are in Science Hall, room 134.  
-   * Science Hall is a 1-mile walk from the Sleep Inn [route](https://www.google.com/maps/dir/Sleep+Inn+University,+2121+S+Triviz+Dr,+Las+Cruces,+NM+88001/Science+Hall,+Las+Cruces,+NM/@32.2840244,-106.7598142,14.8z/data=!4m14!4m13!1m5!1m1!1s0x86de17ec9d2ec18b:0xc0e49c329d58fecf!2m2!1d-106.741265!2d32.287174!1m5!1m1!1s0x86de17bedabe0a11:0xa2968aef86517db0!2m2!1d-106.752122!2d32.280567!3e2).  Enrico has offered to give us a ride. 
+   * Science Hall is a 1-mile walk from the Sleep Inn ([route](https://www.google.com/maps/dir/Sleep+Inn+University,+2121+S+Triviz+Dr,+Las+Cruces,+NM+88001/Science+Hall,+Las+Cruces,+NM/@32.2840244,-106.7598142,14.8z/data=!4m14!4m13!1m5!1m1!1s0x86de17ec9d2ec18b:0xc0e49c329d58fecf!2m2!1d-106.741265!2d32.287174!1m5!1m1!1s0x86de17bedabe0a11:0xa2968aef86517db0!2m2!1d-106.752122!2d32.280567!3e2)).  Enrico has offered to give us a ride. 
 * Friday lunch in campus food court
 * Saturday we will walk out for lunch
 
