@@ -40,14 +40,15 @@ Schedule
 * Friday morning, 8:30 am  to noon
    * The Phylotastic vision
       * Introduction (Arlin)
-      * Demonstration of use-cases (Arlin & Dail) 
       * Project organization and strategy (Arlin)
+    * Break
+      * Demonstration of use-cases (Arlin & Dail) 
       * Discussion 
-   * Break
-   * Review & evaluation of products: web services
 * Lunch (~noon)
 * Friday afternoon, 1:30 to 5:30
-   * Review & evaluation, continued: portal 
+   * Review & evaluation of products: 
+      * web services
+      * portal
    * Break
    * Planning for the first release
 * Friday evening: dinner
