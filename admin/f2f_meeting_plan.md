@@ -50,6 +50,7 @@ Schedule
       * web services
       * portal
    * Break
+   * Audiences, constituencies
    * Planning for the first release
 * Friday evening: dinner
 
@@ -57,6 +58,7 @@ Schedule
    * Evaluation of project management
    * break
    * Pending challenges (possible break-outs)
+      * architecture 
       * ontology design
       * metadata model
       * portal UI improvements
