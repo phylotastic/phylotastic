@@ -52,17 +52,21 @@ Schedule
    * Audiences, constituencies
 * Friday evening: dinner
 
-* Saturday morning, 8:30 am  to noon 
-   * Pending challenges (possible break-outs)
-      * portal
-      * architecture 
-      * ontology design
-      * metadata model
-      * tree viz & data export strategy
+* Saturday morning, 8:30 am  to 12:30 
+   * portal
    * break
+   * architecture, followed by ontology design
+   * 
+   
+* Lunch and excursion, 12:30 to 2:30
+  
+* Saturday afternoon, 2:30 to 6:30 
+   * metadata model
+   * tree viz & data export strategy
+   * Planning for the first release
+
 * Saturday afternoon, 1:30 to 5:30 
    * Planning for the first release
-   * Evaluation of project management
 
 * Sunday, 8:30 am to noon
    * planning for the future, continued 
