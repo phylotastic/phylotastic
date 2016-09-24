@@ -56,16 +56,12 @@ Schedule
    * portal
    * break
    * architecture, followed by ontology design
-   * 
    
 * Lunch and excursion, 12:30 to 2:30
   
 * Saturday afternoon, 2:30 to 6:30 
    * metadata model
    * tree viz & data export strategy
-   * Planning for the first release
-
-* Saturday afternoon, 1:30 to 5:30 
    * Planning for the first release
 
 * Sunday, 8:30 am to noon
