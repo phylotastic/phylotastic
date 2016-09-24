@@ -48,23 +48,21 @@ Schedule
 * Friday afternoon, 1:30 to 5:30
    * Review & evaluation of products: 
       * web services
-      * portal
-   * Break
+    * Break
    * Audiences, constituencies
-   * Planning for the first release
 * Friday evening: dinner
 
 * Saturday morning, 8:30 am  to noon 
-   * Evaluation of project management
-   * break
    * Pending challenges (possible break-outs)
+      * portal
       * architecture 
       * ontology design
       * metadata model
-      * portal UI improvements
       * tree viz & data export strategy
+   * break
 * Saturday afternoon, 1:30 to 5:30 
-   * continue working on pending challenges 
+   * Planning for the first release
+   * Evaluation of project management
 
 * Sunday, 8:30 am to noon
    * planning for the future, continued 
