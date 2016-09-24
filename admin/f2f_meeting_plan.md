@@ -62,8 +62,8 @@ Schedule
   
 * Saturday afternoon, 2:30 to 6:30 
    * metadata model
-   * Planning for the first release
+   * planning for the future, continued 
 
 * Sunday, 8:30 am to noon
-   * planning for the future, continued 
+   * Planning for the first release
    * meeting wrap-up (Arlin)
