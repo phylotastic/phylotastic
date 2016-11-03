@@ -1,0 +1,45 @@
+Chelonia mydas, Green sea turtle (Crush)
+Amphiprion percula, Clownfish (Nemo)
+Paracantharus hepatus, Regal Tang (Dory)
+Zanclus cornutus, Moorish Idol (Gill)
+Diodon holocanthus, Porcupinefish (Bloat)
+Gramma loreto, Royal Gramma (Gurgle)
+Zebrasoma flavescens, Yellow Tang (Bubbles)
+Pisaster brevenspinus, Starfish (Peach)
+Opisthoteuthis californiana, Flapjack octopus (Pearl)
+Aetobatus narinari, Spotted eagle ray (Mr. Ray)
+Lysmata amboinensis, Pacific cleaner shrimp (Jacques)
+Dascyllus aruanus, Damselfish (Deb, Flo)
+Isurus paucus, Mako Shark (Chum)
+Carcharodon carcharias, Great White Shark (Bruce)
+Sphyrna mokarran, Hammerhead Shark (Anchor)
+Pelecanus conspicillatus, Australian Pelican (Nigel)
+Hippocampus, Seahorse (Sheldon)
+Heteractis magnifica, Magnificent anemone
+Balaenoptera musculus, Blue Whale
+Delphinapterus leucas, Beluga Whale
+Bufoceratias wedli, Anglerfish
+Sphyraena barracuda, Barracuda
+Larus dominicanus, Kelp Gull
+, MoonFish
+, Bottlenose Dolphin
+, Albatross
+, Butterflyfish
+, Seahorse
+, Flounder
+, Goldfish
+, Angelfish
+, Red-lipped Batfish
+, Swordfish
+, Seabass
+, Grouper
+, Guppy
+, Tuna
+, Jellyfish
+, Crab
+, Krill
+, Spanish Dancer Sea Slug
+, Hermit Crab
+, Lobster
+, Corals
+, Sponges
