@@ -1,6 +1,6 @@
 # draft metadata list 
 
-## comments 
+## introduction 
 
 We are trying to develop a metadata model for phylotastic trees.  The purpose for disseminating metadata is two-fold: 
 * provide information on sources and methods useful to users for purposes of evaluation
@@ -17,7 +17,28 @@ The last of these is potentially available via the MIAPA ontology.  See the MIAP
  
 and related resources. 
 
-## list
+## process
+
+repeat as needed
+* revise model
+* implement token examples 
+* evaluate via feedback
+
+## criteria
+
+1. covers all relevant workflow operations
+   * calibration
+   * name resolution 
+   * image harvest 
+   * and so on
+1. compatible with relevant standards and best practices
+   * MIAPA
+   * CDAO
+   * NeXML? 
+1. has a sensible serialization 
+   * json?  nexml? 
+
+## draft 
 
 MC = MIAPA checklist 
 
