@@ -1,8 +1,8 @@
-# draft metadata list 
+# draft metadata model for lists and trees
 
 ## introduction 
 
-We are trying to develop a metadata model for phylotastic trees.  The purpose for disseminating metadata is two-fold: 
+We are trying to develop a metadata model for phylotastic lists and trees.  The purpose for disseminating metadata is two-fold: 
 * provide information on sources and methods useful to users for purposes of evaluation
 * to provide credit and make resources discoverable by linking a tree to supporting phylogeny studies
 
@@ -38,15 +38,28 @@ repeat as needed
 1. has a sensible serialization 
    * json?  nexml? 
 
-## draft 
+## lists 
+
+* Title : brief title 
+* Description : narrative description 
+* Keywords : comma-separated list of keywords
+* Author : list author 
+* Creation date : date initially created
+* Curator : list curator 
+* Modified date : date of most recent update
+* Source : URI or other source description 
+* Focal group : focal clade or taxon where relevant 
+* Comment :  anything else 
+
+## trees
 
 MC = MIAPA checklist 
 
-* topology ID (MC)
-   * induced tree: synth tree ID
-   * source tree
-      * OT tree ID
-      * TreeBASE ID
+* topology (MC)
+   * semantic anchor
+   * identifier
+      * induced tree: synth tree ID? 
+      * source tree: OT tree ID or other source ID
 * gene or species tree (MC)
    * this is a species tree
 * It is a tree or a network? (MC)
