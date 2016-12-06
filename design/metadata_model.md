@@ -7,9 +7,10 @@ We are trying to develop a metadata model for phylotastic lists and trees.  The 
 * to provide credit and make resources discoverable by linking a tree to supporting phylogeny studies
 
 To develop and implement this model we need
+
 1. a description of the kinds of metadata required, e.g., MIAPA
-2. a serialization format for metadata instances, e.g., json
-3. a formal or informal language to capture the semantics of metadata
+1. a serialization format for metadata instances, e.g., json
+1. a formal or informal language to capture the semantics of metadata
 
 The last of these is potentially available via the MIAPA ontology.  See the MIAPA checklist 
 
