@@ -60,7 +60,7 @@ MC = MIAPA checklist
    * semantic anchor
    * identifier
       * induced tree: synth tree ID? 
-      * source tree: OT tree ID or other source ID
+      * source tree: OT tree ID or other source ID (TreeBase)
 * gene or species tree (MC)
    * this is a species tree
 * It is a tree or a network? (MC)
