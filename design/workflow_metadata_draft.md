@@ -63,7 +63,7 @@ This ensure that, unless the user takes active steps to disassociate them, the d
 1. Created list `<list_name>` of `<list_length>` names with description `<list_description>`.  
 1. Extended list `<list_name>` with taxon match data from `<list_tnrs>` with settings `<list_tnrs_settings>`. 
 1. User may have interactively selected some or all of the species before proceeding to the steps below.  
-1. Exported taxon match report as (csv|PDF) file with columns Query (source string), MatchedName (name matched to), Match (Exact or Fuzzy), Synonyms (list of synonyms). 
+1. Exported taxon match report as (.csv|PDF) file with columns Query (source string), MatchedName (name matched to), Match (Exact or Fuzzy), Synonyms (list of synonyms). 
 
 ### example 1 
 
