@@ -12,7 +12,12 @@ To develop and implement this model we need
 1. a serialization format for metadata instances, e.g. json
 1. a formal or informal language to capture the semantics of metadata
 
-The last of these is potentially available via the MIAPA ontology.  See the MIAPA checklist 
+We need to think about metadata in 3 contexts 
+* phylotastic service returns useful metadata 
+* phylotastic client returns useful metadata, including workflow as appropriate
+* phylotastic portal creates, updates, displays and exports metadata for lists and trees
+
+A semantic scheme for tree metadata is potentially available via the MIAPA ontology.  See the MIAPA checklist 
 
  https://github.com/miapa/miapa/blob/master/checklist/MIAPA-checklist.md
  
@@ -24,6 +29,11 @@ repeat as needed
 * revise model
 * implement token examples 
 * evaluate via feedback
+
+## needed from OT
+
+* induced subtree "supporting_studies" includes study but not tree within study.  
+   * add trees to metadata
 
 ## criteria
 
