@@ -1,0 +1,44 @@
+{ // comments must be removed with minify in order for this to be valid JSON
+  "preamble" : { // not sure why
+  
+  },
+  
+  "miapa" : { // miapa elements
+    "tree" : {  // the tree itself
+      "treestring" : "(Plants, (Animals, Fungi))"
+      "format" : "Newick"  // Newick, NHX
+      "identifier" : NA  // if this tree has an id
+    }, 
+    "speciestree" : true,  // is this intended to relate species phylogeny? 
+    "non-anastomosing" : true, // does this tree disallow nodes with input order > 1? 
+    "consensus" : false, // is this a consensus tree? 
+    "otus" : {  // the otu labels in arbitrary order
+      "namelist" : [ "Zebrasoma flavescens", "Hippocampus kelloggi", "Pelecanus conspicillatus", "Sphyrna mokarran", "Lysmata amboinensis", "Heteractis magnifica", "Aetobatus narinari", "Homo sapiens", "Amphiprion ocellaris", "Zanclus cornutus", "Chelonia mydas" ],
+      "taxonomic context" : "Animals",  // if available from OTT
+      "nametype" : "scientificName",  // scientificName, vernacularName, ottId, other
+      "taxonomy" : {  // if nametype is scientific, specify the taxonomy where available 
+        "weburl" : "https://tree.opentreeoflife.org/about/taxonomy-version/ott2.10",
+        "author" : "open tree of life project",
+        "name" : "ott",
+        "source" : "ott2.10draft12",
+        "version" : "2.10"
+      },
+      "alternative_ids" : { 
+         "id_type" : "ottID"
+         "id_list" : [ , , , , , ]
+      },
+    },
+    "branch_lengths" : {
+      "branch_length_type" : false
+    },
+    "support_values" : { 
+    
+    }, 
+    "character_matrix" : NA, 
+    "alignment_method" : NA, 
+    "tree_inference_method" : {
+      "phylotastic_method" : "induced subtree"
+      "narrative description" : "a sentence describing the method "
+      "supporting_studies" : [ , , , ]
+    } 
+  }    
