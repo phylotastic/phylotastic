@@ -51,7 +51,7 @@ We should also consider the option of always saving metadata in a manner that as
    * my\_tree.nwk
    * my\_tree_metadata.txt
 
-This ensure that, unless the user takes active steps to disassociate them, the data and the metadata will still be together on the user's hard drive a year later. 
+This ensures that, unless the user takes active steps to disassociate them, the data and the metadata will still be together on the user's hard drive a year later. 
 
 ## Workflow 1: import text list and download taxon match report. 
 

@@ -49,7 +49,7 @@ repeat as needed
 1. has a sensible serialization 
    * json?  nexml? 
 
-## lists 
+## metadata for lists 
 
 * Title : brief title 
 * Description : narrative description 
@@ -62,7 +62,7 @@ repeat as needed
 * Focal group : focal clade or taxon where relevant 
 * Comment :  anything else 
 
-## trees
+## metadata for trees
 
 MC = MIAPA checklist 
 

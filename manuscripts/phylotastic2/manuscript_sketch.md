@@ -20,7 +20,6 @@ If we don't care about profile, why not aim for a particular audience that we wi
 
 If we are targeting educators, curators or community ecologists, it does not make sense to include automated composition as one of the points.  Maybe that should be a separate paper?  
 
-
 ## Products
 
 * registry 
@@ -39,3 +38,24 @@ If we are targeting educators, curators or community ecologists, it does not mak
 * workflow discovery and composition 
 * tools useful in classroom instruction 
 
+## outline 
+
+% * Abstract 
+% * Introduction 
+%    * tree of life
+%    * issue of dissemination
+%    * phylotastic design emerges from hackathons
+%    * comp sci issues 
+%    * synopsis 
+% * Implementation
+%    * service registry 
+%    * services 
+%       * new ones
+%       * other sources - DateLife, OpenTree, GNRD
+%    * portal 
+% * Discussion - exposing resources means exposing inadequacies
+%    * standards for rich trees
+%    * standards for viz
+%    * adequacy of OpenTree
+%    * phylogenetic lesson plans 
+   * 
