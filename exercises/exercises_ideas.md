@@ -43,10 +43,15 @@ notes about the teaching context and what is important
 
 ## ideas about an open call for exercises
 
-Criterio for lesson plans
-1. Plans are self-contained, or refer to freely accessible resources.  Can we ask this?  How many teachers will want to make plans based on a textbook.  The plans may refer to a textbook for background or additional information, but should not require a commercial textbook to be understandable. 
-1. Plans include a description of the educational level and objectives
-1. Plans are offered without restriction.  They will be shared with a CC-BY license which means that others can use them if they attribute you.  
+Criteria for lesson plans
+1. Plans are self-contained, or refer to readily accessible resources.  The plans may refer to a textbook for background or additional information, but must not require a commercial textbook to be useable. 
+1. Plans include a description of (a) objectives, (b) target grade level, and (c) the number and duration of sessions.  Cite statewide or nationwide education standards if known.
+
+By entering, you agree that the submitted material is yours to share, and you allow us to make it available with a CC-BY license, so that anyone may use it, so long as they attribute you as the source. 
+
+Criteria for judging
+
+Plans that meet the criteria above will be judged for their likely effectiveness in utilizing interactions with the Phylotastic portal as an integral part of learning about phylogeny, biodiversity, or basic STEM knowledge and skills. 
 
 * prize ideas
    * substitute for gift card of equal value
@@ -54,19 +59,15 @@ Criterio for lesson plans
    * National genographic DNA ancestry kit 
    * hard-bound edition, signed with a message to you by the authors
       * ? Ancestor's Tale by Richard Dawkins and Yan Wong
-      * ? Inferring Phylogenies by Joe Felsenstein 
       * ? Your inner fish by Neil Shubin
    * $25 Amazon card
-
-
 
 ## ideas for exercises 
 
 ### US fish & wildlife service 
 
 One example that is very useable is from the US Fish & Wildlife service, e.g., https://ecos.fws.gov/ecp0/reports/species-listed-by-state-report?state=AL&status=listed
- 
- 
+
 ### Marine mammals and semi-aquatic mammals
 
 * Electronic resources 
@@ -104,7 +105,6 @@ Tree ((A,B),(C,D) - find species
 
 make pictures 
 
-   
 ## build on available exercises
 
 * tree thinking by Baum, et al: http://www.evolution.wisc.edu/sites/default/files/Basic%20Tree%20Thinking%20Assessment.pdf
