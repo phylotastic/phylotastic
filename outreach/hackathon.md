@@ -20,6 +20,12 @@ We put in a budget for this.  This is in the NMSU budget.
 * 25 people plus locals
 * but allow more teams than usual NESCent hackathon? [ENRICO: are we allowing remote participants as we did in some of the others?]
 
+## logistics
+
+* NIMBioS
+* 8 to 11 of August, 2017
+* will overlap with RevBayes workshop
+
 ## scoping and example targets
 
 subject: Call for applications to participate in a Phylotastic hackathon (<location> on <date>)
