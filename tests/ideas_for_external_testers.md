@@ -7,4 +7,4 @@ I have funds to hire outside consultants to test our system, or just to play wit
 ## Ideas
 * Standing up a robust, reproducible test suite. testthat with R packages works, but something we can run routinely to test many things, esp the portal (simulate mouseclicks, etc), could be good.
 * Making sure people can redeploy our tools. If a wall suddenly covers all NMSU campus, can we stand up a service at UMD? I think it might be difficult.
-* 
+* Making sure that workflows can be assembled just by following the provided API documentation
