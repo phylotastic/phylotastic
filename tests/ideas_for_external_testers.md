@@ -9,14 +9,21 @@ Docker compose
 
 
 ## Targets
-* Standing up a robust, reproducible test suite. testthat with R packages works, but something we can run routinely to test many things, esp the portal (simulate mouseclicks, etc), could be good.
-* Making sure people can redeploy our tools. If a wall suddenly covers all NMSU campus, can we stand up a service at UMD? I think it might be difficult.
-* Making sure that workflows can be assembled just by following the provided API documentation
-* Capacity testing.  
+* Thorough test suite for routine testing of major products
+   * testthat with R packages works
+   * something we can run routinely to test many things
+   * especially the portal (simulate mouseclicks, etc).
+* Explore range of inputs for services.  
+   * Test what is required 
+   * Explore what is possible.  
+   * Find out how errors and exceptions are handled
+   * Add this to the documentation.  
+   * make plans to address any deficiencies
+* Deployment and portability.  Can other people deploy our tools.  This is most important for the services, less important for the portal. 
+* Capacity and responsiveness.  
    * for services, Find out limits, response times, and add that information to the docs. 
    * for portal, find out response times with increasing number of concurrent users
-* Correctness
-* Define scope of the input ranges.  Test various inputs to see what is required.  Services.  
+* Making sure that workflows can be assembled just by following the provided API documentation
 * Regression tests.  make sure functionality remains intact when other parts of the system change.  
-* 
+* Correctness
 * 
