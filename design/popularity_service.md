@@ -30,15 +30,21 @@ There is a relatively simple way to store a taxonomy tree in an SQL database, ca
 
 ## SOW for basic implementation 
 
-Implement a species popularity service with a public web-services API.  The basic functionality will be,
-* given a list of species S, to return the popularity index for those species 
-* given a taxon T (specified by otid) and a number N, to return the N most popular species in that taxon 
+Implement a species popularity service with a public web-services API.  Popularity will be calculated based on wikispecies usage statistics.  The code will be developed on a branch of OneZoom with an OS license.  The basic functionality will be,
+* given a list of species S and a number N, to return the N most popular species 
+* given a taxon T (specified by otid) and a number N, to return the N most popular species in T
 
 The service 
-* will have a WSDL description developed with the NMSU partners. 
-* will be registered with the Phylotastic services registry. 
-* will be maintained for a year from the date of completion of this work.  
+* will return results in JSON
+* will have a WSDL description developed with the NMSU partners, who will register it with the Phylotastic services registry
+* will be active for a year from the date of completion of this work
+* will respond with informative error messages to the following input errors
+   * S, N or T is empty 
+   * T is not a recognized taxon id or taxon name
+   * N < 1
+   * N > cardinality(S)
+* failure to recognize species in S will not be an error unless the number of recognized species is less than N. 
 
-Develop a public API description that lists the arguments, their domains, and the expected return values.
+Develop public API documentation that lists the arguments, their domains, and the expected return values.  The documentation will include at least a few sentence describing how popularity is calculated.  
 
-It is recommended, but not required, to use a 3rd-party monitoring service such as UptimeRobot to monitor the service and notify the owners in case of errors. 
+It is recommended, but not required, to use a monitoring service such as UptimeRobot to monitor the service and notify the owners in case of a service outage. 
