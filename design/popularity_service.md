@@ -36,6 +36,7 @@ Implement a species popularity service with a public web-services API.  Populari
 
 The service 
 * will return results in JSON
+* will typically return results in < 3 sec when query implicates < X species
 * will have a WSDL description developed with the NMSU partners, who will register it with the Phylotastic services registry
 * will be active for a year from the date of completion of this work
 * will respond with informative error messages to the following input errors
