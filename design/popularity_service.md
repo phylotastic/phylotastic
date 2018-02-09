@@ -30,7 +30,7 @@ There is a relatively simple way to store a taxonomy tree in an SQL database, ca
 
 ## SOW for basic implementation 
 
-Implement a species popularity service with a public web-services API.  Popularity will be calculated based on wikispecies usage statistics.  The code will be developed on a branch of OneZoom with an OS license.  The basic functionality will be,
+Implement a species popularity service with a public web-services API.  Popularity will be based on wikispecies usage statistics.  The code will be developed on a branch of OneZoom with an OSI license.  The basic functionality will be,
 * given a list of species S and a number N, to return the N most popular species 
 * given a taxon T (specified by otid) and a number N, to return the N most popular species in T
 
@@ -40,11 +40,11 @@ The service
 * will be active for a year from the date of completion of this work
 * will respond with informative error messages to the following input errors
    * S, N or T is empty 
-   * T is not a recognized taxon id or taxon name
+   * T is not a recognized taxon 
    * N < 1
    * N > cardinality(S)
 * failure to recognize species in S will not be an error unless the number of recognized species is less than N. 
 
-Develop public API documentation that lists the arguments, their domains, and the expected return values.  The documentation will include at least a few sentence describing how popularity is calculated.  
+Develop public API documentation that lists the arguments, their domains, and the expected return values.  The documentation will include at least a few sentences describing how popularity is calculated.  
 
-It is recommended, but not required, to use a monitoring service such as UptimeRobot to monitor the service and notify the owners in case of a service outage. 
+It is recommended, but not required, to set up monitoring with automatic notification sent to the owners in case of a service outage. 
