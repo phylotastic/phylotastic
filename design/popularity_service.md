@@ -27,3 +27,18 @@ The back-end minimally requires a taxonomy and a ranking.
 The brute-force method would be to enter the tree at t, then descend t to collect all the species.  Then the list of all species in t would be queried against the ranking to find the top n. 
 
 There is a relatively simple way to store a taxonomy tree in an SQL database, called the Nested Sets model (https://en.wikipedia.org/wiki/Nested_set_model). It depends on computing a set of indices for the nodes such that a node has a left number and a right number, and all of the children have numbers in between these. This makes it easy, in particular, to get all of the children of a node.  
+
+## SOW for basic implementation 
+
+Implement a species popularity service with a public web-services API.  The basic functionality will be,
+* given a list of species S, to return the popularity index for those species 
+* given a taxon T (specified by otid) and a number N, to return the N most popular species in that taxon 
+
+The service 
+* will have a WSDL description developed with the NMSU partners. 
+* will be registered with the Phylotastic services registry. 
+* will be maintained for a year from the date of completion of this work.  
+
+Develop a public API description that lists the arguments, their domains, and the expected return values.
+
+It is recommended, but not required, to use a 3rd-party monitoring service such as UptimeRobot to monitor the service and notify the owners in case of errors. 
