@@ -43,3 +43,7 @@ The service
 Develop public API documentation that lists the arguments, their domains, and the expected return values.  The documentation will include at least a few sentences describing how popularity is calculated.  
 
 It is recommended, but not required, to set up monitoring with automatic notification sent to the owners in case of a service outage. 
+
+## SOW for second phase of implementation
+
+not done
