@@ -1,5 +1,7 @@
 # phylotastic manuscript 1
 
+currently there is a manuscript on overleaf here: https://www.overleaf.com/7221828xmgskjxqyhzn#/24930953/
+
 ## Description 
 
 This is not the educational paper or the name-resolution paper.  This is the paper that people will cite when they use our clients or web services as part of the phylotastic system.  
@@ -40,22 +42,21 @@ If we are targeting educators, curators or community ecologists, it does not mak
 
 ## outline 
 
-% * Abstract 
-% * Introduction 
-%    * tree of life
-%    * issue of dissemination
-%    * phylotastic design emerges from hackathons
-%    * comp sci issues 
-%    * synopsis 
-% * Implementation
-%    * service registry 
-%    * services 
-%       * new ones
-%       * other sources - DateLife, OpenTree, GNRD
-%    * portal 
-% * Discussion - exposing resources means exposing inadequacies
-%    * standards for rich trees
-%    * standards for viz
-%    * adequacy of OpenTree
-%    * phylogenetic lesson plans 
-   * 
+* Abstract 
+* Introduction 
+   * tree of life
+   * issue of dissemination
+   * phylotastic design emerges from hackathons
+   * comp sci issues 
+   * synopsis 
+* Implementation
+   * service registry 
+   * services 
+      * new ones
+      * other sources - DateLife, OpenTree, GNRD
+   * portal 
+* Discussion - exposing resources means exposing inadequacies
+   * standards for rich trees
+   * standards for viz
+   * adequacy of OpenTree
+   * phylogenetic lesson plans 
