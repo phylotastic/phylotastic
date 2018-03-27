@@ -18,7 +18,9 @@ Here is the "phylogeny of mammalian orders" version.
       * If player placement correct, program responds with new node and branch attaching species 3
       * If incorrect, that is counted as a miss, and program places species correctly.  Alternatively, program could offer a new card.  
 
-'''Continued play.'''  The process above continues.  With each species placed, there are now B + 2 branches, making the choice of placement more detailed and challenging with each play.  The game ends when the tree with 26 mammals is finished, or the user has accumuated too many misses.  
+**Continued play.**  The process above continues.  With each species placed, there are now B + 2 branches, making the choice of placement more detailed and challenging with each play.  The game ends when the tree with 26 mammals is finished, or the user has accumuated too many misses.  
+
+**Options** There are a lot of possibilities here.  This could be made simpler and more visual for younger players, or more sophisticated for university students.  
 
 ## competitive territory capture game
 
