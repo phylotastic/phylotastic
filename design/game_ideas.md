@@ -9,12 +9,12 @@ See the [Powerpoint slide deck](https://www.dropbox.com/s/iye25wy7husagcj/phylog
 Here is the "phylogeny of mammalian orders" version.  
 
 1. Setup.  
-   1. program picks 26 mammal species cards, one from each taxonomic order of mammals.  
-   1. program draws 2-species tree, places 2 randomly drawn cards at tips. 
-   1. program presents player with a 3rd species card, not attached to tree
+   * program picks 26 mammal species cards, one from each taxonomic order of mammals.  
+   * program draws 2-species tree, places 2 randomly drawn cards at tips. 
+   * program presents player with a 3rd species card, not attached to tree
 1. Initial play
-   1. player drags card for species 3 onto branch a, b, or c.  
-   1. program responds by placing species 3
+   * player drags card for species 3 onto branch a, b, or c.  
+   * program responds by placing species 3
       * If player placement correct, program responds with new node and branch attaching species 3
       * If incorrect, that is counted as a miss, and program places species correctly.  Alternatively, program could offer a new card.  
 
