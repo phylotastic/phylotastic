@@ -37,7 +37,11 @@ Here is the "phylogeny of mammalian orders" version.
 
 ## Navigate tree of life to destination
 
-If we can solve the problem of how to supply useful clues used to make a branch placement choice, we could design a number of different games.  If we could do it over the whole tree of life, we could set up a navigation game where you start at some random place on the tree (e.g., giant squid or lady beetle) and you have to navigate your way back to “human” by making a series of binary choices at various branch points.  In the case of starting with a squid, the player would have to traverse up the tree to an early animal ancestor, then back down to human.  
+If we can solve the problem of how to supply useful clues over the whole tree of life, we could set up a navigation game where you start at some random place on the tree (e.g., giant squid or lady beetle) and you have to navigate your way back to human by making a series of binary choices at various branch points.  In the case of starting with a squid, the player would have to traverse up the tree to an early animal ancestor, then back down to human.  
+
+This is easy if you can see the whole tree, but I'm imagining a game where all you see is the next node, which appears as an intersection on your path, a fork in the road ahead of you.  If you are going backward in time and you hit an intersection, one choice goes further back in time, and the other goes forward.  If you are going forward in time and you hit an intersection, you can go forward right or forward left.   
+
+Each intersection can have various signs, e.g., "mammals ahead in 50 MY".  The whole trick is to put the content on these signs that makes the game meaningful to play. 
 
 ## competitive territory capture game
 
