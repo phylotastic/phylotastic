@@ -1,6 +1,6 @@
 # ideas for game-ifying phylogeny 
 
-## Place species card to grow tree
+## Build tree with progressive branch placement
 
 This game builds and tests knowledge of phylogenetic relationships for species.  The player is challenged to build a tree in stepwise fashion by placing a new (randomly drawn) species card onto the correct branch.  The species cards have pictures and perhaps some data harvested from EOL.  
 
@@ -21,6 +21,15 @@ Here is the "phylogeny of mammalian orders" version.
 **Continued play.**  The process above continues.  With each species placed, there are now B + 2 branches, making the choice of placement more detailed and challenging with each play.  The game ends when the tree with 26 mammals is finished, or the user has accumuated too many misses.  
 
 **Options** There are a lot of possibilities here.  This could be made simpler and more visual for younger players, or more sophisticated for university students.  
+
+## Navigate tree of life to destination
+
+If we can solve the problem of how to supply useful clues used to make a branch placement choice, we could design a number of different games.  If we could do it over the whole tree of life, we could set up a navigation game where you start at some random place on the tree (e.g., giant squid or lady beetle) and you have to navigate your way back to “human” by making a series of binary choices at various branch points.  In the case of starting with a squid, the player would have to traverse up the tree to an early animal ancestor, then back down to human.  
+
+Broad sources of trait information include 
+* mammal phenomics data set 
+* phenoscape project fish traits
+* leaf economics spectrum dataset 
 
 ## competitive territory capture game
 
