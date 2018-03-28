@@ -1,5 +1,18 @@
 # ideas for game-ifying phylogeny 
 
+## using trait information 
+
+Being able to supply the user with hints based on trait data would be useful for various kinds of games.  Broad sources of trait information include 
+* mammal phenomics data set 
+* phenoscape project fish traits
+* leaf economics spectrum dataset 
+* EOL ranges, images, sizes, habitats, but I suspect most of these are not good for phylogeny
+* genomic characters such as rDNA sequences
+
+In the branch placement game, suppose that user sees fox and moose, and wants to place giraffe.  One form of clue would be to go to a trait matrix, pull out all the traits for which (1) there is a value for all 3 species, and (2) the values are not all the same, then display those to the user as a pop-up chart.  
+
+This would be easy to do with molecular data using an rDNA alignment.  
+
 ## Build tree with progressive branch placement
 
 This game builds and tests knowledge of phylogenetic relationships for species.  The player is challenged to build a tree in stepwise fashion by placing a new (randomly drawn) species card onto the correct branch.  The species cards have pictures and perhaps some data harvested from EOL.  
@@ -25,11 +38,6 @@ Here is the "phylogeny of mammalian orders" version.
 ## Navigate tree of life to destination
 
 If we can solve the problem of how to supply useful clues used to make a branch placement choice, we could design a number of different games.  If we could do it over the whole tree of life, we could set up a navigation game where you start at some random place on the tree (e.g., giant squid or lady beetle) and you have to navigate your way back to “human” by making a series of binary choices at various branch points.  In the case of starting with a squid, the player would have to traverse up the tree to an early animal ancestor, then back down to human.  
-
-Broad sources of trait information include 
-* mammal phenomics data set 
-* phenoscape project fish traits
-* leaf economics spectrum dataset 
 
 ## competitive territory capture game
 
