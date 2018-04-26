@@ -6,6 +6,10 @@ lesson plan, citable, gives credit to teacher
 
 * Classroom lessons, homework, team projects. 
 
+science standards. 
+
+https://www.nextgenscience.org/pe/hs-ls4-1-biological-evolution-unity-and-diversity
+
 
 contest
 * put it on figshare 
