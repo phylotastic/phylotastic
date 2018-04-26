@@ -26,7 +26,19 @@ We put in a budget for this.  This is in the NMSU budget.
 * 8 to 11 of August, 2017
 * will overlap with RevBayes workshop
 
-## email announcement: open call for participation
+## email announcement: second call 
+
+subject: Phylotastic "Trees to go" hackathon, August 8 to 11 (application deadline: 16 June)
+
+The Phylotastic project (http://www.phylotastic.org) aims to make expert knowledge of species phylogeny more accessible for purposes of research, education, and public outreach.  We invite interested scientists, programmers and educators to apply for a 4-day hackathon centered on leveraging resources of the project, including its graphical web portal, its suite of web services, and its toolbox code.  
+
+Full information on the scope and aims of the hackathon is available at http://bit.ly/2qMyMSc. 
+
+We offer full travel support to accepted participants.  Whether you are a researcher, a curator, an educator, or something else, we encourage you to apply for participation.  To apply, use the online form at http://bit.ly/2qAXuDk to provide brief descriptions of your ideas, your skills and your domain knowledge.  Members of underrepresented groups are especially encouraged to apply. Applications are due June 16, 2017. 
+
+We encourage pre-application questions, which may be directed to Arlin Stoltzfus (arlin@umd.edu), Enrico Pontelli (epontell@cs.nmsu.edu), Brian O'Meara (bomeara@utk.edu) or Dmitry Mozzherin (dmozzherin@gmail.com).  
+
+## email announcement: first open call for participation
 
 subject: Apply for the Phylotastic "Trees to go" hackathon, August 8 to 11 at NIMBioS (deadline: 16 June)
 
