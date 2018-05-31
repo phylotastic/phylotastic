@@ -1,0 +1,69 @@
+# Outreach and hackathon followup ideas
+
+## Lesson plans
+
+Regardless of what we do, we probably want to retain someone as a consultant.  Someone who is actually teaching and understands what is required for good lesson plans. 
+
+From hackathon participants:
+* Chang - TA for biodiversity, macroevolution, computing courses
+* Howell - mentions next gen science standards and specifically mol biol and phylogeny
+* Everson - has designed workshop, provided support for self-teaching bioinfo.  
+* McTavish - wants to develop teaching tools for undergrad class
+
+Ideas for how to get this done
+* have a contest
+   * where to announce?  Evoldir might be good for reaching people teaching evolution at research universities, but it will not reach HS or college teachers. 
+   * offer prizes
+   * now is a bad time.  beginning of summer would be ideal
+   * need to have some kind of lesson plan spec?  Or just allow anything?  
+* recruit a small team 
+   * recruit from hackathon applicants
+   
+## Consultant or contractor targets
+
+These are things that we can contract out.  
+* web services testing - this is in the works 
+* popularity-based taxon sampling service (Yan Wong)
+   * for taxon T and number N, suggest N species from T
+   * find out plan for that, pick it up again
+* automated UI testing 
+* Mesquite-o-tastic - Daisie would probably love to do this
+   * this could be the basis for lessons at the university or grad levels (Mesquite is too complex for most uses)
+   * MEGA - large installed user base
+   * R - need for vignettes (Liam Revell)
+   * Arbor - 
+* language support (Klaus Schliep idea)
+   * increase market for educational uses 
+
+## Workshop targets
+
+Here are some targets that we could tackle by bringing in a small team.  To maximize impact, the team should think about the idea before we bring them together.  But in order to keep the burden low, we should not expect more than a few meetings.  
+
+* Feature-rich phylogeny interchange 
+   * specify features that need support, e.g., phylotastic metadata
+   * specify formats to support (NeXML, CDAO, NEXUS, ...)
+   * see Gaurav Vaidya ideas
+   * also, OWL converter http://github.com/phyloref/phylo2owl
+   * end goal is to have translation services that access the functionality 
+* Phylogeny-based collections browser 
+   * browse your collection (museum, zoo) phylogenetically
+   * hackathon idea of Erdmann
+   * try to integrate into popular collections mgt software (Specify, )
+      * do any of these provide a taxonomy browser? 
+* Phyloguides 
+   * idea is to create PDF doc with tree, pics, embedded links. 
+   * for large trees, you could break this up and use links to navigate from collapsed nodes to expansions of that node (on a separate page)
+   * iNat says that their guides haven't taken off (but their projects have)
+   * good to provide support for bioblitzes, e.g., via integrating with 
+* Assess coverage, find targets of opportunity
+   * see Michonneau idea to "find taxonomic groups that received a lot of attention in the scientific literature but that don't have phylogenies"
+   * also, Arlin's idea: troll GenBank for taxa with lots of sequences for the kinds of loci typically used in phylogenetics, e.g., rDNA, COX, etc.  If you find 20 species in a taxon with rDNA entries, then surely someone is doing phylogeny on that group.  Then find out where OpenTree could be improved. 
+
+## Phylotastic ambassador program
+
+Send one of our people to another project.  
+* EOL?  embedded trees?  Are we ready to do that? 
+* 
+
+   
+
