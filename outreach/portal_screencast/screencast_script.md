@@ -1,18 +1,49 @@
 # screencast script and notes
 
+http://rsos.royalsocietypublishing.org/content/2/9/150156
+
 ## notes on screencast 
 
 1. use camera microphone to avoid breathing noises.  
 2. speak more clearly and slowly to make editing easier.  
 3. Simplify script 
 
-Elephas maximas (should be maximus)
+(should be maximus)
+Elephas minimus 
 Dugong dugon
 Trichechus manatus
 Mirounga leonina
 Hydrurga leptonyx
 Phoca vitulina
 Otaria byronia
+
+## June 2018 script 
+
+Hello.  I'd like to illustrate what you can do by going to Phylotastic.org, and clicking the link for Phylotastic web portal, which provides 3 workflows for getting species phylogenies.  
+
+We'll begin by gathering names from a PDF file.  Recently I noticed a paper on the "cetacea", including the whales and porpoises, and their close relationship with the hippopotamus-- a semi-aquatic mammal.  I saved this file earlier as "whales.pdf". 
+
+[when I select to create a list from a document, what happens is that a service provided by the Global Names project is pulling text out of the PDF, finding strings that look like taxonomic names, and then matching those against a database of real names.]
+
+Now, let's choose "Get Tree" to see a phylogeny, which takes a second or two to retrieve and render.  I'm going to click a button to get thumbnail images. [this sends a bunch of queries to the Encyclopedia of Life project which has a lot of nice thumbnail images]
+ 
+Here we have the hippopotamus family.  To find out more, we can take a look at the EOL page.  You can save this tree as an image, or save the Newick string with or without Open Tree IDs.  
+
+Now, let's suppose I want to make this a lesson about the repeated evolution of aquatic mammals, not just the whales and dolphins, but also two other groups, the seals and the manatees.  
+
+First, I will go back to the list we created, and download it.  
+
+Here is the list, with a few names removed to make it shorter. I'll paste in some additional names of species in the two other groups of aquatic mammals.  I'll include the elephant as an outgroup to Sirenia, and I'll mis-spell one name so that I can show you how to fix that later. 
+
+Now, the first time we used the "extract from doc" workflow using a PDF.  This time we will choose the "upload my list" workflow.  The list view has a tab for any unmatched names.  I will fix this one and check again for a match.   
+
+Now we choose "Get tree" again and look at the results.  Up here, with the polar bear and the other carnivores, we have the pinnipedia-- the seals and sea lions. Over here with the hippo, we have the cetacea-- the whales and dolphins.  Down here, with the elephant, we have the sirenia-- dugong and manatee.   
+
+(workflow) Finally, the last workflow begins by naming a group or "taxon", and then specifying a subset.  For instance, let's get a list of all the rodent species for which there is a genome sequence available.  Making a tree with this list is the same as for any other.  
+
+Now, I did all of this without logging in.  My lists and trees will persist as long as my browser remembers this session.  To save your lists and trees long-term, you can log in with your google credentials.  
+
+My name is Arlin.  On behalf of the rest of the phylotastic team, I'd like to thank you for listening.  If you have a comment or question, just click on feedback at the portal.
 
 ## Apr 2017 script 
 
@@ -64,6 +95,6 @@ Now, let's get a tree and look at the results.  Over here with the hippo, we hav
 
 If we load all the pictures, which I'll skip, we'll get something like this-- an excellent way to illustrate the repeated evolution of aquatic mammals.  
 
-(workflow) Finally, the last workflow begins by naming a group or "taxon", and then specifying a subset.  
+(workflow) Finally, the last workflow begins by naming a group or "taxon", and then specifying a subset.  I'll enter Hominoidea and select "known genomes".  The subsequent steps of getting a tree and displaying it are the same. 
 
 My name is Arlin.  On behalf of the rest of the phylotastic team, I'd like to thank you for listening.  If you have a comment or question, just go to bitly slash phylofeedback.  
