@@ -58,7 +58,10 @@ This is what I get
 ![rodents\_20.png](rodents_20.png)
 
 
-##  Salamanders ()
+##  Salamanders (Urodela)
+
+Issues 
+* there are 3 from the genus of giant salamanders 
 
 ![salamanders\_10.png](salamanders_10.png)
 
@@ -66,8 +69,12 @@ salamanders\_10.png
 
 ## Carnivores (Carnivora)
 
-![carnivores\_20.png](carnivores_20.png)
+Issues. Cats, bears and dogs.  This is expected.  Hyena is a bonus.  I was hoping to see 
+* a weasel or other mustelid
+* a seal or sea lion (pinnipedia)
+* a skunk
 
+![carnivores\_20.png](carnivores_20.png)
 
 ## Cats (Felidae)
 
