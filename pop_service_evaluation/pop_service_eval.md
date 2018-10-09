@@ -51,9 +51,10 @@ This is what I get
 
 ## Rodents
 
-20 Rodents 
+20 Rodents.  This is a particularly clumpy case. 
 * there are 2 beavers
-* 
+* there are 2 ground squirrels from the same genus
+* there are 5 prairie dogs
 
 ![rodents\_20.png](rodents_20.png)
 
